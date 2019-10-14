@@ -5,6 +5,8 @@ var os = require('os');
 
 const config_port = 3001;
 
+const News = require('./Public/Controller/NewController.js')
+
 const server = http.createServer((req, res) => {
     // https://www.jianshu.com/p/d7fcd17d79a9
     // 允许跨域
@@ -13,10 +15,10 @@ const server = http.createServer((req, res) => {
 
 server.on('request', (req, res) => {
 
+    console.log(new Date().toString())
     console.log(req.url)
     // https://nodejs.org/dist/latest-v12.x/docs/api/url.html
-    let { pathname, query } = url.parse(req.url)
-
+    let { pathname, query } = url.parse(req.url.toLowerCase())
 
     if (pathname.indexOf('/api') === 0) {
         if (pathname == '/api/getlunbotu') {
@@ -32,6 +34,15 @@ server.on('request', (req, res) => {
             ]
             let result = { status: 0, message: message }
             res.end(JSON.stringify(result))
+            return
+        } else if (pathname == '/api/getnewslist') {
+            let result = JSON.stringify(News.getNewsList())
+            res.end(result)
+            return
+        } else if (pathname.indexOf('/api/getnewsinfo') == 0) {
+            let _id = pathname.split('/')[3]
+            let result = JSON.stringify(News.getNewsInfo(_id))
+            res.end(result)
             return
         }
     }
