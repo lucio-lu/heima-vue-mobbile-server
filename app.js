@@ -5,7 +5,8 @@ var os = require('os');
 
 const config_port = 3001;
 
-const News = require('./Public/Controller/NewController.js')
+const News = require('./Public/Controller/NewsController.js')
+const Comment = require('./Public/Controller/CommentController.js')
 
 const server = http.createServer((req, res) => {
     // https://www.jianshu.com/p/d7fcd17d79a9
@@ -42,6 +43,12 @@ server.on('request', (req, res) => {
         } else if (pathname.indexOf('/api/getnewsinfo') == 0) {
             let _id = pathname.split('/')[3]
             let result = JSON.stringify(News.getNewsInfo(_id))
+            res.end(result)
+            return
+        }
+        else if (pathname.indexOf('/api/getcomments') == 0) {
+            let _id = pathname.split('/')[3]
+            let result = JSON.stringify(Comment.getComments(_id))
             res.end(result)
             return
         }
