@@ -99,6 +99,8 @@ let comments = [
     },
 ]
 
+let maxid = 15;
+
 let getComments = function (_id, pageIndex) {
     let result = { status: -1, message: '' }
 
@@ -116,6 +118,20 @@ let getComments = function (_id, pageIndex) {
     // 分页的功能还没加@@@
 
     result = { status: 0, message: _comments }
+
+    return result
+}
+
+let postComment = function (_id, content) {
+    comments.push({
+        newsid: _id,
+        id: maxid++,
+        user_name: "匿名用户",
+        add_time: Date.now(),
+        content: content
+    })
+
+    result = { status: 0, message: '' }
 
     return result
 }

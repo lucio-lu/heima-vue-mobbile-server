@@ -51,6 +51,14 @@ server.on('request', (req, res) => {
             let result = JSON.stringify(Comment.getComments(_id))
             res.end(result)
             return
+        } else if (pathname.indexOf('/api/postcomment') == 0) {
+            //https://stackoverflow.com/questions/26297755/get-the-request-body-in-nodejs
+            req.on('data', (chunk) => {
+                let body = chunk.toString().split('=')
+                let _id = pathname.split('/')[3]
+                let result = JSON.stringify(Comment.getComments(_id, body))
+                res.end(result)
+            })
         }
     }
     else if (pathname.indexOf('/node_modules/') === 0) {
