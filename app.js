@@ -3,10 +3,11 @@ const url = require('url')
 const fs = require('fs')
 var os = require('os');
 
-const config_port = 3001;
+const config = require('./config.js')
 
 const News = require('./Public/Controller/NewsController.js')
 const Comment = require('./Public/Controller/CommentController.js')
+const ImgController = require('./Public/Controller/ImgController.js')
 
 const server = http.createServer((req, res) => {
     // https://www.jianshu.com/p/d7fcd17d79a9
@@ -26,11 +27,11 @@ server.on('request', (req, res) => {
             let message = [
                 {
                     url: 'https://nodejs.org/en/',
-                    img: 'http://' + address + ':' + port + '/public/image/node-title.jpg'
+                    img: config.address + '/public/image/node-title.jpg'
                 },
                 {
                     url: 'https://vuejs.org/',
-                    img: 'http://' + address + ':' + port + '/public/image/vue-title.jpg'
+                    img: config.address + '/public/image/vue-title.jpg'
                 }
             ]
             let result = { status: 0, message: message }
@@ -58,7 +59,25 @@ server.on('request', (req, res) => {
                 let _id = pathname.split('/')[3]
                 let result = JSON.stringify(Comment.getComments(_id, body))
                 res.end(result)
+                return
             })
+        } else if (pathname == '/api/getimgcategory') {
+            let result = JSON.stringify(ImgController.getImgCategory())
+            res.end(result)
+            return
+        } else if (pathname.indexOf('/api/getimages') == 0) {
+            let _id = pathname.split('/')[3]
+            let images = ImgController.getImages(_id)
+            // images.message.map(v => v.img_url = 'http://' + address + ':' + port + v.img_url)
+            let result = JSON.stringify(images)
+            res.end(result)
+            return
+        } else if (pathname.indexOf('/api/getimageinfo') == 0) {
+            let _id = pathname.split('/')[3]
+            let images = ImgController.getImageInfo(_id)
+            let result = JSON.stringify(images)
+            res.end(result)
+            return
         }
     }
     else if (pathname.indexOf('/node_modules/') === 0) {
@@ -93,12 +112,12 @@ server.on('request', (req, res) => {
 
 
 // 在端口3001监听:
-const listener = server.listen(config_port, () => {
-    console.log(`server started at port ${config_port}...`)
+const listener = server.listen(config.server_port, () => {
+    console.log(`server started at port ${config.server_port}...`)
 })
 
 // how to get server info
 // https://stackoverflow.com/questions/4840879/nodejs-how-to-get-the-servers-port
 //const address = server.address().address
-const address = 'localhost'
-const port = server.address().port
+//const address = 'localhost'
+//const port = server.address().config.server_por

@@ -1,0 +1,842 @@
+<div class="main-content">
+    <a class="posterFlag expert-icon " href="javascript:;" title="权威专家认证词条"></a>
+    <div class="top-tool ">
+        <a href="/divideload/%E7%8B%BC" title="拆分词条" target="_blank" class="split-icon top-tool-icon"
+            style="display:none;" nslog-type="50000104">
+            <em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+        </a>
+        <div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+            <em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+            <span class="collect-text">收藏</span>
+            <div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+        </div>
+        <a href="javascript:void(0);" id="j-top-vote" class="top-vote top-tool-icon" nslog-type="10060801">
+            <em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+            <span class="vote-count">25670</span>
+            <span class="vote-tip">有用+1</span>
+            <span class="voted-tip">已投票</span>
+        </a>
+        <div class="bksharebuttonbox top-share">
+            <a class="top-share-icon top-tool-icon" nslog-type="9067">
+                <em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+                <span class="share-count" id="j-topShareCount">888</span>
+            </a>
+            <div class="new-top-share" id="top-share">
+                <ul class="top-share-list">
+                    <li class="top-share-item">
+                        <a class="share-link bds_qzone" href="javascript:void(0);" nslog-type="10060501">
+                            <em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+                        </a>
+                    </li>
+                    <li class="top-share-item">
+                        <a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+                            <em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+                        </a>
+                    </li>
+                    <li class="top-share-item">
+                        <a class="bds_wechat" href="javascript:void(0);" nslog-type="10060401">
+                            <em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+                        </a>
+                    </li>
+                    <li class="top-share-item">
+                        <a class="share-link bds_tqq" href="javascript:void(0);" nslog-type="10060601">
+                            <em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div style="width:0;height:0;clear:both"></div>
+    <dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+        <dd class="lemmaWgt-lemmaTitle-title">
+            <span class="lemma-pinyin">
+                <span class="text">[láng]</span>
+                <a class="speak" id="j-pinyin-speak" href="javascript:;" title="点击发声" nslog-type="10000106">&nbsp;</a>
+            </span>
+            <div id="fmp_flash_div" style="position:absolute; left:-9999px;">
+                <audio id="audio" src=""></audio>
+            </div>
+            <h1>狼</h1>
+            <h2>（哺乳纲动物）</h2>
+            <a href="javascript:;" class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link"
+                style="display: inline-block;"><em
+                    class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+            <a class="lock-lemma" nslog-type="10003105" target="_blank" href="javascript:;" title="锁定"><em
+                    class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+            <a href="/planet/talk?lemmaId=12717" target="_blank"
+                class="lemma-discussion cmn-btn-hover-blue cmn-btn-28 j-discussion-link" nslog-type="90000102"><em
+                    class="cmn-icon wiki-lemma-icons wiki-lemma-icons_discussion-solid"></em>讨论<span class="num"
+                    style="display: inline;">23</span></a>
+        </dd>
+    </dl>
+    <div class="authorityListPrompt">
+        <div class="main-content-zj">
+            本词条由<a href="https://baike.baidu.com/science" target="_blank" class="nslog:7175">“科普中国”科学百科词条编写与应用工作项目</a>
+            审核
+            。</div>
+    </div>
+    <div class="promotion-declaration">
+    </div>
+    <div class="lemma-summary" label-module="lemmaSummary">
+        <div class="para" label-module="para">狼（拉丁名：<i>Canis lupus</i> Linnaeus），保护等级有“三有”保护动物<sup class="sup--normal"
+                data-sup="1" data-ctrmap=":1,">
+                [1]</sup><a class="sup-anchor" name="ref_[1]_6057143">&nbsp;</a>
+            。共46个<a target="_blank" href="/item/%E4%BA%9A%E7%A7%8D/6290944"
+                data-lemmaid="6290944">亚种</a>，体型中等、匀称，四肢修长，趾行性，利于快速奔跑。头腭尖形，颜面部长，鼻端突出，耳尖且直立，嗅觉灵敏，听觉发达。<a target="_blank"
+                href="/item/%E7%8A%AC%E9%BD%BF/1783968" data-lemmaid="1783968">犬齿</a>及裂齿发达；上<a target="_blank"
+                href="/item/%E8%87%BC%E9%BD%BF/891225"
+                data-lemmaid="891225">臼齿</a>具明显齿尖，下臼齿内侧具一小齿尖及后跟尖；臼齿齿冠直径大于外侧门齿高度；齿式为。毛粗而长。前足4～5趾，后足一般4趾
+            ；爪粗而钝，不能或略能伸缩。尾多毛，较发达。善快速及长距离奔跑，多喜群居，常追逐猎食。以食草动物及啮齿动物等为食。栖息于森林、沙漠、山地、寒带草原、针叶林、草地。除南极洲和大部分海岛外，分布全世界。外形与狗和豺相似，足长体瘦，<a
+                target="_blank" href="/item/%E6%96%9C%E7%9C%BC/4031676"
+                data-lemmaid="4031676">斜眼</a>，上颚骨尖长，嘴巴宽大弯曲，耳竖立，胸部略窄小，尾挺直状下垂夹于俩后腿之间。毛色随产地而异，多毛色棕黄或灰黄色，略混黑色，下部带白色。栖息范围广，适应性强，山地、<a
+                target="_blank" href="/item/%E6%9E%97%E5%8C%BA/16007358" data-lemmaid="16007358">林区</a>、草原、以至冰原均有<a
+                target="_blank" href="/item/%E7%8B%BC%E7%BE%A4/16171"
+                data-lemmaid="16171">狼群</a>生存。夜间活动多，嗅觉敏锐，听觉很好。机警，多疑，善奔跑，耐力强，常采用穷追的方式获得猎物。狼属于食肉动物，主要以鹿、羚羊、兔为食，也食用<a
+                target="_blank" href="/item/%E6%98%86%E8%99%AB/30467" data-lemmaid="30467">昆虫</a>、<a target="_blank"
+                href="/item/%E8%80%81%E9%BC%A0/186618" data-lemmaid="186618">老鼠</a>等，能耐饥。狼是猎食动物，狼群以<a target="_blank"
+                href="/item/%E6%A0%B8%E5%BF%83%E5%AE%B6%E5%BA%AD/10277730"
+                data-lemmaid="10277730">核心家庭</a>的形式组成，包括一对配偶及其子女，有时也包括收养的未成年幼狼。狼属于典型的<a target="_blank"
+                href="/item/%E9%A3%9F%E7%89%A9%E9%93%BE/654658" data-lemmaid="654658">食物链</a>次级<a target="_blank"
+                href="/item/%E6%8E%A0%E9%A3%9F%E8%80%85/37198"
+                data-lemmaid="37198">掠食者</a>。通常群体行动，由于狼会捕食羊等家畜，因此到20世纪末期前被人类大量捕杀，一些亚种如<a target="_blank"
+                href="/item/%E6%97%A5%E6%9C%AC%E7%8B%BC/380245" data-lemmaid="380245">日本狼</a>、<a target="_blank"
+                href="/item/%E7%BA%BD%E8%8A%AC%E5%85%B0%E7%8B%BC/1023468" data-lemmaid="1023468">纽芬兰狼</a>、<a
+                target="_blank" href="/item/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E9%BB%91%E7%8B%BC/2060916"
+                data-lemmaid="2060916">佛罗里达黑狼</a>、<a target="_blank"
+                href="/item/%E5%9F%BA%E5%A5%88%E5%B1%B1%E7%8B%BC/2044873"
+                data-lemmaid="2044873">基奈山狼</a>等都已经灭绝。今亚种的确切数量仍旧未定。</div>
+    </div>
+    <div class="configModuleBanner">
+    </div>
+    <div class="basic-info cmn-clearfix">
+        <dl class="basicInfo-block basicInfo-left">
+            <dt class="basicInfo-item name">中文学名</dt>
+            <dd class="basicInfo-item value">
+                <a target="_blank" href="/item/%E7%8B%BC/9780069" data-lemmaid="9780069">狼</a>
+            </dd>
+            <dt class="basicInfo-item name">拉丁学名</dt>
+            <dd class="basicInfo-item value">
+                <i>Canis lupus </i>Linnaeus
+            </dd>
+            <dt class="basicInfo-item name">别&nbsp;&nbsp;&nbsp;&nbsp;称</dt>
+            <dd class="basicInfo-item value">
+                <a target="_blank" href="/item/%E9%87%8E%E7%8B%BC">野狼</a>、<a target="_blank"
+                    href="/item/%E8%B1%BA%E7%8B%BC">豺狼</a>、灰狼
+            </dd>
+            <dt class="basicInfo-item name">界</dt>
+            <dd class="basicInfo-item value">
+                动物界
+            </dd>
+            <dt class="basicInfo-item name">门</dt>
+            <dd class="basicInfo-item value">
+                <a target="_blank" href="/item/%E8%84%8A%E7%B4%A2%E5%8A%A8%E7%89%A9%E9%97%A8">脊索动物门</a>
+            </dd>
+            <dt class="basicInfo-item name">纲</dt>
+            <dd class="basicInfo-item value">
+                <a target="_blank" href="/item/%E5%93%BA%E4%B9%B3%E7%BA%B2">哺乳纲</a>
+            </dd>
+        </dl>
+        <dl class="basicInfo-block basicInfo-right">
+            <dt class="basicInfo-item name">目</dt>
+            <dd class="basicInfo-item value">
+                <a target="_blank" href="/item/%E9%A3%9F%E8%82%89%E7%9B%AE">食肉目</a>
+            </dd>
+            <dt class="basicInfo-item name">科</dt>
+            <dd class="basicInfo-item value">
+                <a target="_blank" href="/item/%E7%8A%AC%E7%A7%91">犬科</a>
+            </dd>
+            <dt class="basicInfo-item name">属</dt>
+            <dd class="basicInfo-item value">
+                <a target="_blank" href="/item/%E7%8A%AC%E5%B1%9E">犬属</a>
+            </dd>
+            <dt class="basicInfo-item name">分布区域</dt>
+            <dd class="basicInfo-item value">
+                <a target="_blank" href="/item/%E4%BA%9A%E6%AC%A7%E5%A4%A7%E9%99%86">亚欧大陆</a>、<a target="_blank"
+                    href="/item/%E5%8C%97%E7%BE%8E">北美</a>和<a target="_blank"
+                    href="/item/%E4%B8%AD%E4%B8%9C">中东</a>地区（主要在北半球温带区域）
+            </dd>
+            <dt class="basicInfo-item name">特&nbsp;&nbsp;&nbsp;&nbsp;点</dt>
+            <dd class="basicInfo-item value">
+                食肉类
+            </dd>
+            <dt class="basicInfo-item name">外文名</dt>
+            <dd class="basicInfo-item value">
+                wolf
+            </dd>
+        </dl>
+    </div>
+    <div class="lemmaWgt-lemmaCatalog">
+        <div class="lemma-catalog">
+            <h2 class="block-title">目录</h2>
+            <div class="catalog-list column-3">
+                <ol>
+                    <li class="level1">
+                        <span class="index">1</span>
+                        <span class="text"><a href="#1">外形特征</a></span>
+                    </li>
+                    <li class="level1">
+                        <span class="index">2</span>
+                        <span class="text"><a href="#2">分布情况</a></span>
+                    </li>
+                    <li class="level1">
+                        <span class="index">3</span>
+                        <span class="text"><a href="#3">生活习性</a></span>
+                    </li>
+                    <li class="level2">
+                        <span class="index">▪</span>
+                        <span class="text"><a href="#3_1">肢体语言</a></span>
+                    </li>
+                    <li class="level2">
+                        <span class="index">▪</span>
+                        <span class="text"><a href="#3_2">生长繁殖</a></span>
+                    </li>
+                </ol>
+                <ol>
+                    <li class="level1">
+                        <span class="index">4</span>
+                        <span class="text"><a href="#4">亚种分类</a></span>
+                    </li>
+                    <li class="level1">
+                        <span class="index">5</span>
+                        <span class="text"><a href="#5">与狗关系</a></span>
+                    </li>
+                    <li class="level1">
+                        <span class="index">6</span>
+                        <span class="text"><a href="#6">狼之进化</a></span>
+                    </li>
+                    <li class="level1">
+                        <span class="index">7</span>
+                        <span class="text"><a href="#7">种群现状</a></span>
+                    </li>
+                    <li class="level1">
+                        <span class="index">8</span>
+                        <span class="text"><a href="#8">灭绝亚种</a></span>
+                    </li>
+                </ol>
+                <ol>
+                    <li class="level1">
+                        <span class="index">9</span>
+                        <span class="text"><a href="#9">保护措施</a></span>
+                    </li>
+                    <li class="level1">
+                        <span class="index">10</span>
+                        <span class="text"><a href="#10">保护级别</a></span>
+                    </li>
+                    <li class="level1">
+                        <span class="index">11</span>
+                        <span class="text"><a href="#11">亚种保护</a></span>
+                    </li>
+                </ol>
+
+            </div>
+        </div>
+    </div>
+    <div class="anchor-list">
+        <a name="1" class="lemma-anchor para-title"></a>
+        <a name="sub6057143_1" class="lemma-anchor "></a>
+        <a name="外形特征" class="lemma-anchor "></a>
+    </div>
+    <div class="para-title level-2" label-module="para-title">
+        <h2 class="title-text"><span class="title-prefix">狼</span>外形特征</h2>
+        <a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;" style="display: block;"><em
+                class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+    </div>
+    <div class="para" label-module="para">
+        外形似家犬。吻较尖，两耳直立，裸露无毛。尾毛蓬松但不卷曲。无拇指和蝩垫。爪粗钝，不能弯缩。额部和头顶灰白有黑色，上下唇黑色。体色多灰黄，但个体变异较大，有棕灰黄、棕灰或淡棕黄色等。体背及提侧长毛尖多为黑色，额部耳廓及背中央毛色较暗。腹部及四肢内侧灰白色。尾色与体色相同。
+    </div>
+    <div class="para" label-module="para">头骨粗壮，眶上突发达，眶后突粗钝。鼻骨前宽后窄。听泡略呈三角形。</div>
+    <div class="para" label-module="para">齿式3.1.4.2./3.1.4.3.=42。上门齿弧形排列，不具小尖。<sup class="sup--normal" data-sup="2"
+            data-ctrmap=":2,">
+            [2]</sup><a class="sup-anchor" name="ref_[2]_6057143">&nbsp;</a>
+        <a name="ref_2"></a></div>
+    <div class="para" label-module="para">
+        量衡度（单位：kg，mm）体重23~30，体长1000~1400，尾长270~500，后足长210~400，耳长95~125；颅全长221.7~256.2，上齿列94.8~107.1。<sup
+            class="sup--normal" data-sup="2" data-ctrmap=":2,">
+            [2]</sup><a class="sup-anchor" name="ref_[2]_6057143">&nbsp;</a>
+        <a name="ref_2"></a></div>
+    <div class="anchor-list">
+        <a name="2" class="lemma-anchor para-title"></a>
+        <a name="sub6057143_2" class="lemma-anchor "></a>
+        <a name="分布情况" class="lemma-anchor "></a>
+    </div>
+    <div class="para-title level-2" label-module="para-title">
+        <h2 class="title-text"><span class="title-prefix">狼</span>分布情况</h2>
+        <a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;" style="display: block;"><em
+                class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+    </div>
+    <div class="para" label-module="para"><b>中国：</b>在国内分布于除台湾、海南岛及其它一些岛屿外的各个省区，但目前主要分布在东北、内蒙以及西藏人口密度较小的地区。<sup
+            class="sup--normal" data-sup="3" data-ctrmap=":3,">
+            [3]</sup><a class="sup-anchor" name="ref_[3]_6057143">&nbsp;</a>
+        <a name="ref_3"></a><a name="ref_3"></a></div>
+    <div class="para" label-module="para">
+        广东省，陕西省，河南省，江西省，吉林省，安徽省，河北省，甘肃省，宁夏回族自治区，山西省，江苏省，四川省，福建省，湖南省，浙江省，贵州省，辽宁省，北京市，新疆维吾尔自治区，内蒙古自治区，西藏自治区，广西壮族自治区，湖北省，黑龙江省，云南省，青海省。<sup
+            class="sup--normal" data-sup="3" data-ctrmap=":3,">
+            [3]</sup><a class="sup-anchor" name="ref_[3]_6057143">&nbsp;</a>
+        <a name="ref_3"></a><a name="ref_3"></a></div>
+    <div class="para" label-module="para"><b>世界：</b>世界性广泛分布，但当前狼的分布区已大大缩小，特别是在北美和西欧。<sup class="sup--normal"
+            data-sup="3" data-ctrmap=":3,">
+            [3]</sup><a class="sup-anchor" name="ref_[3]_6057143">&nbsp;</a>
+        <a name="ref_3"></a><a name="ref_3"></a></div>
+    <div class="para" label-module="para">
+        阿富汗，阿尔巴尼亚，亚美尼亚，奥地利，阿塞拜疆，孟加拉，白俄罗斯，比利时，不丹，波黑，保加利亚，加拿大，中国，克罗地亚，捷克，朝鲜，丹麦，埃及，爱沙尼亚，芬兰，法国，格鲁吉亚，德国，希腊，格陵兰岛，匈牙利，印度，伊朗，伊拉克，爱尔兰，以色列，意大利，日本，约旦，哈萨克斯坦，科威特，吉尔吉斯斯坦，拉托维亚，黎巴嫩，利比亚，立陶宛，卢森堡，墨西哥，蒙古，黑山共和国，缅甸，尼泊尔，荷兰，挪威，阿曼，巴基斯坦，波兰，葡萄牙，韩国，摩尔多瓦，罗马尼亚，俄罗斯，沙特阿拉伯，塞尔维亚，斯洛伐克，斯罗文尼亚，西班牙，瑞典，瑞士，叙利亚，塔吉克斯坦，前南斯拉夫马其顿共和国，土尔其，土库曼斯坦，乌克兰，英国，美国，乌兹别克斯坦，也门。
+    </div>
+    <div class="anchor-list">
+        <a name="3" class="lemma-anchor para-title"></a>
+        <a name="sub6057143_3" class="lemma-anchor "></a>
+        <a name="生活习性" class="lemma-anchor "></a>
+    </div>
+    <div class="para-title level-2" label-module="para-title">
+        <h2 class="title-text"><span class="title-prefix">狼</span>生活习性</h2>
+        <a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;" style="display: block;"><em
+                class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+    </div>
+    <div class="para" label-module="para"><a target="_blank" href="/item/%E7%81%B0%E7%8B%BC">灰狼</a>曾经遍布<a
+            target="_blank" href="/item/%E5%8C%97%E7%BE%8E%E6%B4%B2">北美洲</a>，但北美只能在<a target="_blank"
+            href="/item/%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0">阿拉斯加</a>、美国的<a target="_blank"
+            href="/item/%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E">明尼苏达州</a>和<a target="_blank"
+            href="/item/%E5%A4%A7%E4%B8%8D%E5%88%97%E9%A2%A0">大不列颠</a>哥伦比亚省、大平原等地的<a target="_blank"
+            href="/item/%E5%AF%92%E5%B8%A6">寒带</a>草原和森林见到它们。</div>
+    <div class="para" label-module="para">中国的蒙古草原早年前曾居住着大片的草原狼，但因为多年前的“剿狼行动”，如今大部分都已移居至外蒙古。</div>
+    <div class="para" label-module="para">狼群主要捕食中大型哺乳动物，研究表示，狼是控制当地<a target="_blank"
+            href="/item/%E7%94%9F%E6%80%81%E5%B9%B3%E8%A1%A1">生态平衡</a>的关键角色，<div
+            class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+            <a class="image-link" nslog-type="9317"
+                href="/pic/%E7%8B%BC/12717/0/6a600c338744ebf834bd4debd8f9d72a6159a711?fr=lemma&amp;ct=single"
+                target="_blank" title="狼" style="width:220px;height:171px;">
+                <img class=""
+                    src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=06c903d4e824b899da3c7e3a5e041d59/6a600c338744ebf834bd4debd8f9d72a6159a711.jpg"
+                    alt="狼" style="width:220px;height:171px;">
+            </a>
+            <span class="description">
+                狼
+            </span>
+        </div>天敌主要为人类。</div>
+    <div class="para" label-module="para">
+        狼的生存环境不容乐观。由于人们对狼根深蒂固的偏见，狼的日子一直很不好过，东躲西藏，仍然免不了遭到追捕和猎杀。在我国，1940年前任何一个省都有野狼出没，到了21世纪除了东北、西北和华北少数几个省、自治区外，其他地区已看不到狼的踪影。专家估计，目前我国野狼的总量只有几千只，再这样下去，我们就只能在动物园才能见到狼了。狼是群居性极高的物种。
+    </div>
+    <div class="para" label-module="para">
+        同时，狼群也拥有着极为严格的等级制度。一群狼的数量正常在7匹左右，即所谓七匹狼，也有部分狼群达到过30匹以上，通常以家庭为单位的家庭狼由一对优势对偶领导，而以兄弟姐妹为一群的则以最强一头狼为领导。狼群有<a
+            target="_blank" href="/item/%E9%A2%86%E5%9F%9F%E6%80%A7">领域性</a>，且通常也都是其活动范围，群内个体数量若增加，领域范围会缩小。</div>
+    <div class="para" label-module="para">
+        狼群之间的领域范围不重叠，会以嚎声向其他群宣告范围。幼狼成长后，会留在群内照顾弟妹，也可能继承群内优势地位，有的则会迁移出去（大多为雄狼）。狼群由家族成员为主，成员数在2-37只之间，由於拥有着极为严格的等级制度和领域范围，因此狼群不可能与别的狼群合作，也不会出现小说中由数个狼群组成、百来头的狼群。
+    </div>
+    <div class="para" label-module="para"><a target="_blank"
+            href="/item/%E9%87%8E%E7%94%9F">野生</a>的狼一般可以活12——16年，人工饲养的狼有的可以活到二十年左右。奔跑速度极快，可达五十五公里左右。狼的耐力也很好，它们有能力以60公里/小时的速度奔跑20公里。智商高度发达，可以通过气味、叫声、肢体动作进行沟通。狼是以肉食为主的<a
+            target="_blank" href="/item/%E8%82%89%E9%A3%9F%E5%8A%A8%E7%89%A9">肉食动物</a>，是<a target="_blank"
+            href="/item/%E7%94%9F%E7%89%A9%E9%93%BE">生物链</a>中极关键的一节。不过虽然狼是以肉食为主，但是有些时候狼会吃一些小浆果来解馋。</div>
+    <div class="anchor-list">
+        <a name="3_1" class="lemma-anchor para-title"></a>
+        <a name="sub6057143_3_1" class="lemma-anchor "></a>
+        <a name="肢体语言" class="lemma-anchor "></a>
+        <a name="3-1" class="lemma-anchor "></a>
+    </div>
+    <div class="para-title level-3" label-module="para-title">
+        <h3 class="title-text"><span class="title-prefix">狼</span>肢体语言</h3>
+    </div>
+    <div class="para" label-module="para">一般占优势主导地位的狼：头狼会身挺高，腿直，神态坚定，耳朵是直立向前。<div
+            class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+            <a class="image-link" nslog-type="9317"
+                href="/pic/%E7%8B%BC/12717/0/faacb564c58462b0f6365428?fr=lemma&amp;ct=single" target="_blank"
+                title="狼翻肚皮表示亲昵讨好（绝对信任）" style="width:220px;height:164px;">
+                <img class=""
+                    src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=77fe29ba828ba61edbeecf2d713597cc/d1160924ab18972b12cc2fbae6cd7b899f510acf.jpg"
+                    alt="狼翻肚皮表示亲昵讨好（绝对信任）" style="width:220px;height:164px;">
+            </a>
+            <span class="description">
+                狼翻肚皮表示亲昵讨好（绝对信任）
+            </span>
+        </div>往往尾部会抬高并带有微微的向上卷曲。这种动作显示的是级别高主导地位的狼可能一直盯着一个唯唯诺诺的地位低下的狼。</div>
+    <div class="para" label-module="para">活跃：玩耍时，狼会全身伏低，嘴唇和耳朵向两边拉开，有时会主动舔或快速伸出舌头。</div>
+    <div class="para" label-module="para">愤怒：愤怒的狼的耳朵会平平的伸出去，背毛也会竖立，嘴唇会皱起，门牙露出，尾巴平举，有时也会弓背或咆哮。</div>
+    <div class="para" label-module="para">恐惧：害怕时狼会试图把它的身子显得较小，从而不那么显眼，或拱背防守，尾收回，露出最易受伤害的部位。</div>
+    <div class="para" label-module="para">服从：身体蜷缩起来，尾巴夹在胯部的两侧，呜呜低嚎，头部埋进臂弯，以示臣服。</div>
+    <div class="anchor-list">
+        <a name="3_2" class="lemma-anchor para-title"></a>
+        <a name="sub6057143_3_2" class="lemma-anchor "></a>
+        <a name="生长繁殖" class="lemma-anchor "></a>
+        <a name="3-2" class="lemma-anchor "></a>
+    </div>
+    <div class="para-title level-3" label-module="para-title">
+        <h3 class="title-text"><span class="title-prefix">狼</span>生长繁殖</h3>
+    </div>
+    <div class="para" label-module="para">
+        <div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+            <a class="image-link" nslog-type="9317"
+                href="/pic/%E7%8B%BC/12717/0/8b82b9014a90f603782e53ee3912b31bb151edf9?fr=lemma&amp;ct=single"
+                target="_blank" title="幼狼" style="width:220px;height:165px;">
+                <img class=""
+                    src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=d9b8f46d1bd5ad6eaef963e8b1ca39a3/8b82b9014a90f603782e53ee3912b31bb151edf9.jpg"
+                    alt="幼狼" style="width:220px;height:165px;">
+            </a>
+            <span class="description">
+                幼狼
+            </span>
+        </div>每年2至4月狼开始<a target="_blank"
+            href="/item/%E4%BA%A4%E9%85%8D">交配</a>，狼的怀孕期约为63天左右。低海拔的狼在二月交配，高海拔的狼则在四月交配。小狼一周左右睁眼，五周后断奶，八周后被带到狼群聚集处。
+    </div>
+    <div class="para" label-module="para">
+        狼成群生活，雌雄性分为不同等级，占统治地位的雄狼和雌狼可随心所欲进行繁殖，处于低下地位的个体则不能自由选择。但是狼通常倾向单一配偶。成偶的狼只要配偶还在，绝大多数会终生相伴。如果狼的配偶死亡，它会很快重建新配偶关系。雌狼产子于地下洞穴中，雌狼经过六十三天的<a
+            target="_blank"
+            href="/item/%E6%80%80%E5%AD%95%E6%9C%9F">怀孕期</a>，生下三只到九只小狼，也有生十几只的。没有自卫能力的小狼，要在洞穴里过一段日子，公狼负责猎取食物。小狼吃奶时期大约有五、六个周之久，但是一个半月也可以吃些碎肉。三、四个月大的小狼就可以跟随父母一道去猎食。半年后，小狼就学会自己找食物吃了。狼的寿命大约是十二到十四年。在群体中成长的小狼，非但只有父母呵护备至，族群的其他份子，也会对狼崽爱护有加。狼和非洲土狼会将杀死的猎物撕咬成碎片吃下腹内，待回到小狼身边时，再反刍出食物反哺，公狼不会反刍食物给幼狼，它会从猎杀中带回食物。雌狼有时也会在族群中造一间“育儿所”，将小狼集中养育，由母狼轮流抚育小狼，毫无怨尤。从这几方面可以看出，母狼的家庭，族群观念极强。
+    </div>
+    <div class="para" label-module="para">（注：出于保护野生动物的角度，请勿捕杀狼）</div>
+    <div class="anchor-list">
+        <a name="4" class="lemma-anchor para-title"></a>
+        <a name="sub6057143_4" class="lemma-anchor "></a>
+        <a name="亚种分类" class="lemma-anchor "></a>
+    </div>
+    <div class="para-title level-2" label-module="para-title">
+        <h2 class="title-text"><span class="title-prefix">狼</span>亚种分类</h2>
+        <a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;" style="display: block;"><em
+                class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+    </div>
+    <div class="para" label-module="para">灰狼的亚种分类非常有争议.一个新而被广泛接受的列表将狼分为16种现存的亚种和2种近代灭绝的亚种。<a target="_blank"
+            href="/item/%E8%A5%BF%E7%8F%AD%E7%89%99%E7%8B%BC">西班牙狼</a>可能是个独立亚种。 基因研究发现<a target="_blank"
+            href="/item/%E5%8D%B0%E5%BA%A6%E7%8B%BC">印度狼</a>与喜马拉雅狼是独立的物种。</div>
+    <ul class="custom_dot para-list list-paddingleft-1">
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank"
+                    href="/item/%E8%8B%94%E5%8E%9F%E7%8B%BC">苔原狼</a><i>(C. l. albus)</i>- 俄罗斯北部</div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank"
+                    href="/item/%E9%98%BF%E6%8B%89%E4%BC%AF%E7%8B%BC">阿拉伯狼</a><i>(C. l. arabs)</i>-<a target="_blank"
+                    href="/item/%E9%98%BF%E6%8B%89%E4%BC%AF%E5%8D%8A%E5%B2%9B">阿拉伯半岛</a></div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank"
+                    href="/item/%E5%8C%97%E6%9E%81%E7%8B%BC">北极狼</a><i>(C. l. arctos)</i>- 加拿大极地岛屿和<a target="_blank"
+                    href="/item/%E6%A0%BC%E9%99%B5%E5%85%B0">格陵兰</a></div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank"
+                    href="/item/%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%8B%BC">墨西哥狼</a><i>(C. l. baileyi)</i>-墨西哥北部，与美国西南部。</div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para">藏狼<i>(C. l. chanco)</i>-<a target="_blank"
+                    href="/item/%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F">青藏高原</a></div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank"
+                    href="/item/%E4%BF%84%E7%BD%97%E6%96%AF%E7%8B%BC">俄罗斯狼</a><i>(C. l. communis)</i>- 俄罗斯中部</div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank"
+                    href="/item/%E9%87%8C%E6%B5%B7%E7%8B%BC">里海狼</a><i>(C. l. cubanensis)</i>- 俄罗斯，<a target="_blank"
+                    href="/item/%E9%87%8C%E6%B5%B7">里海</a>和<a target="_blank" href="/item/%E9%BB%91%E6%B5%B7">黑海</a>间
+            </div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank" href="/item/%E5%AE%B6%E7%8A%AC">家犬</a><i>(C. l.
+                    familiaris)</i>- 除南极洲外，广泛分布全球</div>
+        </li>
+        <ul class="custom_dash list-paddingleft-2">
+            <li class="list-dash list-dash-paddingleft">
+                <div class="para" label-module="para"><a target="_blank"
+                        href="/item/%E6%BE%B3%E6%B4%B2%E9%87%8E%E7%8A%AC">澳洲野犬</a><i>(C. l. dingo)</i>-东南亚及澳州</div>
+            </li>
+        </ul>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank"
+                    href="/item/%E5%8C%97%E6%B5%B7%E9%81%93%E7%8B%BC">北海道狼</a>（虾夷狼）<i>(C. l. hattai)</i>-日本<a
+                    target="_blank" href="/item/%E5%8C%97%E6%B5%B7%E9%81%93">北海道</a>，已灭绝</div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank"
+                    href="/item/%E6%97%A5%E6%9C%AC%E7%8B%BC">日本狼</a><i>(C. l. hodophilax)</i>- 日本<a target="_blank"
+                    href="/item/%E6%9C%AC%E5%B7%9E">本州</a>、<a target="_blank"
+                    href="/item/%E5%9B%9B%E5%9B%BD">四国</a>、九州，已灭绝</div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank"
+                    href="/item/%E5%8C%97%E8%90%BD%E5%9F%BA%E5%B1%B1%E7%8B%BC">北落基山狼</a><i>(C. l. irremotus)</i>-
+                冰河国家公园以及在蒙大拿地区</div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank"
+                    href="/item/%E6%84%8F%E5%A4%A7%E5%88%A9%E7%8B%BC">意大利狼</a><i>(C. l. italicus)</i>-意大利<a
+                    target="_blank" href="/item/%E4%BA%9A%E5%B9%B3%E5%AE%81">亚平宁</a></div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank"
+                    href="/item/%E5%9F%83%E5%8F%8A%E7%8B%BC">埃及狼</a><i>(C. l. lupaster)</i>-埃及北部和<a target="_blank"
+                    href="/item/%E5%88%A9%E6%AF%94%E4%BA%9A">利比亚</a>东北部。</div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para">欧亚狼<i>(C. l. lupus)</i>- 从中国、蒙古、俄罗斯和东欧到德国、西班牙和葡萄牙</div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank"
+                    href="/item/%E4%B8%9C%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%8B%BC">东加拿大狼</a><i>(C. l. lycaon)</i>-
+                加拿大东南部与美国东北部。</div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank"
+                    href="/item/%E5%A4%A7%E5%B9%B3%E5%8E%9F%E7%8B%BC">大平原狼</a><i>(C. l. nubilus)</i>- 美国西部、东北部和加拿大东部
+            </div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para">马更歇狼<i>(C. l. occidentalis)</i>- 加拿大西部、阿拉斯加，重新引进至美国西北部</div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank"
+                    href="/item/%E4%BC%8A%E6%9C%97%E7%8B%BC">伊朗狼</a><i>(C. l. pallipes)</i>-中东</div>
+        </li>
+        <li class="list-dot list-dot-paddingleft">
+            <div class="para" label-module="para"><a target="_blank" href="/item/%E7%BA%A2%E7%8B%BC">红狼</a><i>(C. l.
+                    rupus)</i>- 美国东南部</div>
+        </li>
+    </ul>
+    <div class="para" label-module="para"><b>狼的祖先</b></div>
+    <div class="para" label-module="para"><a target="_blank" href="/item/%E5%B0%8F%E5%8F%A4%E7%8C%AB">小古猫</a>是现代食肉动物<a
+            target="_blank" href="/item/%E7%8C%AB%E7%A7%91">猫科</a>、犬科、<a target="_blank"
+            href="/item/%E7%86%8A%E7%A7%91">熊科</a>、<a target="_blank"
+            href="/item/%E9%BC%AC%E7%A7%91">鼬科</a>、鬣狗科、灵猫科、猫鼬科等动物的共同祖先，它具五<div
+            class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+            <a class="image-link" nslog-type="9317"
+                href="/pic/%E7%8B%BC/12717/0/4bed2e738bd4b31c2e26c87687d6277f9f2ff8e1?fr=lemma&amp;ct=single"
+                target="_blank" title="狼" style="width:220px;height:165px;">
+                <img class=""
+                    src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=3e0cbdfa35fae6cd08b4ac633fb20f9e/4bed2e738bd4b31c2e26c87687d6277f9f2ff8e1.jpg"
+                    alt="狼" style="width:220px;height:165px;">
+            </a>
+            <span class="description">
+                狼
+            </span>
+        </div>指、较长的身体和较短的四肢，总体来说小古猫类似于的鼬科动物，它能够爬树，捕食一些鸟类、小型啮齿类动物。有些科学家相信小古猫也可能吃一些蛋或者水果.它们是可爱的，它并不凶残，鹿才是可怕的。</div>
+    <div class="para" label-module="para">在大约4,700万年前的<a target="_blank"
+            href="/item/%E5%A7%8B%E6%96%B0%E4%B8%96">始新世</a>中期，小古猫开始逐渐分化出猫亚目和犬亚目两个比较大的类群。其中，猫亚目是现代猫科动物的祖先，而犬亚目则逐渐分化出现代犬科动物。在恐龙灭绝后，存在两个巨大的生态位需要填补：大型的捕食者和大型的被捕食者。
+    </div>
+    <div class="para" label-module="para">由于在恐龙时代，<a target="_blank"
+            href="/item/%E5%93%BA%E4%B9%B3%E7%B1%BB">哺乳类</a>动物多数体型甚小，因此，在整个新生代，众多的哺乳类动物开始向更大的体型发展以占据恐龙灭绝所遗留下的<a
+            target="_blank" href="/item/%E7%94%9F%E6%80%81%E4%BD%8D">生态位</a>，最先得以发展的是被捕食者，也就是我们经常所说的<a target="_blank"
+            href="/item/%E9%A3%9F%E8%8D%89%E5%8A%A8%E7%89%A9/10312279"
+            data-lemmaid="10312279">食草动物</a>，像始祖马，从最初的狐大小的体型，经过几个世代的进化，最终演化出体型高大的现代马。伴随着被捕食者的体型变化，捕食者的体型也日益增大。当然，由于资源的限制和作为恒温动物能量消耗较高的原因，两者都不可能出现像<a
+            target="_blank" href="/item/%E6%A2%81%E9%BE%99">梁龙</a>或<a target="_blank"
+            href="/item/%E9%9C%B8%E7%8E%8B%E9%BE%99">霸王龙</a>和剑龙那样巨大的体型。</div>
+    <div class="para" label-module="para"><b>黄昏犬</b></div>
+    <div class="para" label-module="para">
+        <div class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+            <a class="image-link" nslog-type="9317"
+                href="/pic/%E7%8B%BC/12717/0/8b82b9014a90f6035a0a72173812b31bb051ed2c?fr=lemma&amp;ct=single"
+                target="_blank" title="狼吼" style="width:220px;height:165px;">
+                <img class=""
+                    src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=fb9cd5941ad5ad6eaef963e8b1ca39a3/8b82b9014a90f6035a0a72173812b31bb051ed2c.jpg"
+                    alt="狼吼" style="width:220px;height:165px;">
+            </a>
+            <span class="description">
+                狼吼
+            </span>
+        </div>始新世晚期，犬科最早从犬亚目中分化出来，这一时期的代表动物是<a target="_blank"
+            href="/item/%E9%BB%84%E6%98%8F%E7%8A%AC">黄昏犬</a>（Hesperocyon）。Hesperocyon的意思是西方的狗，它的出现标志着犬亚目动物的正式登场，它是犬亚目分化的关键种，也是犬科动物最初的三个分支之一。这些犬科动物的体型要比<a
+            target="_blank"
+            href="/item/%E9%BA%A6%E8%8A%BD%E8%A5%BF%E5%85%BD">麦芽西兽</a>大，类似于今天的狐狸，它们具有柔软但健壮的身体，长长的尾巴，带趾垫的足和较短的吻，与狗或狼一样，它们是真正的趾行动物，这使它们相比麦芽西兽来说要善于奔跑但又具有很强的攀爬能力，当然，作为食肉动物来说，它们的听觉和嗅觉都有了一定的发展。
+    </div>
+    <div class="para" label-module="para"><b>三个分支</b></div>
+    <div class="para" label-module="para">
+        我们把进化史上曾经出现的犬科动物三个分支（即犬科的三个亚科）称为：今犬亚科，古犬亚科和Borophaginae亚科（类似鬣狗的犬科动物）。黄昏犬所代表的那个分支就是其中的古犬亚科。古犬亚科曾经盛极一时，既有体型较大类似鬣狗的食骨者，又有体型较小类似郊狼的食腐者。
+    </div>
+    <div class="para" label-module="para">2
+        300万年的中新世，古犬亚科的动物纷纷灭绝，但其中的Nothocyon和Leptocyon两类却存活下来，并进而各自发展成为Borophaginae亚科（内文恐犬亚科和今犬亚科。Borophaginae亚科，是在1,600万年前由Nothocyon中的汤氏属进化出来的。它们的特征是短脸，强有力的下颌骨和通常硕大的体型，外观模样介于鬣狗和狗之间。这些动物曾经和熊狗共同生活过一段时间，并且应当存在激烈竞争，在熊狗灭绝后，它们取代了熊狗的生态地位。尽管汤氏属的特征和今犬亚科动物非常接近，但今犬亚科动物并不是由汤氏属进化而来的。
+    </div>
+    <div class="para" label-module="para"><b>今犬亚科</b></div>
+    <div class="para" label-module="para">在大约1
+        000万年的中新世晚期，随着Borophaginae亚科动物的衰退，一类体型较小的古犬亚科动物Leptocyon得到了发展机会，这些体型类似狐狸的动物，逐渐演化为今犬亚科，今犬亚科进而进化出了今天存活于世界各地的各种现代犬科动物。
+    </div>
+    <div class="para" label-module="para"><b>现代犬科</b></div>
+    <div class="para" label-module="para">现代<a target="_blank"
+            href="/item/%E7%8A%AC%E7%A7%91%E5%8A%A8%E7%89%A9">犬科动物</a>到底起源于何地至今仍有争论，有人说现代犬科动物起源于美洲大陆的西南端，并在演化的一定阶段通过大陆桥辐射到欧亚大陆，有人则持相反的观点。不过不可否认的是，由于大陆桥的存在，新旧大陆动物的相互辐射和影响不可避免，或许，对于迁徙能力很强的食肉动物来说，新旧大陆间根本就不存在障碍。
+    </div>
+    <div class="para" label-module="para">现代犬科动物成功的一个重要原因是它们的牙齿结构，它们的牙齿具有了既能剪切又能研磨的功能，这使它们的捕食和摄取能量的能力大大加强。</div>
+    <div class="para" label-module="para">中新世晚期，狼与豺、胡狼等犬属动物最先在亚洲出现，当然，这里并不是进化的终点，这时<a
+            class="lemma-album layout-right nslog:10000206" title="狼"
+            href="/pic/%E7%8B%BC/12717/13150942/caef76094b36acaf4a6db3327ed98d1000e99c6a?fr=lemma&amp;ct=cover"
+            target="_blank" style="width:221px;" nslog-type="10000206">
+            <div class="album-wrap" style="width:219px;height:186px;">
+                <img class="picture" alt="狼"
+                    src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike60%2C5%2C5%2C60%2C20/sign=173db9893b12b31bd361c57be7715d1f/caef76094b36acaf4a6db3327ed98d1000e99c6a.jpg"
+                    style="width:219px;height:186px;">
+            </div>
+            <div class="description">
+                狼<span class="number">(19张)</span>
+            </div>
+            <div class="albumBg">
+                <div class="albumBgFir" style="width:213px;"></div>
+                <div class="albumBgSec" style="width:207px;"></div>
+            </div>
+        </a>
+        的狼和原来的狼并不完全相同。在这几百万年的时间里，在美洲和欧洲都先后出现过几种狼，其中一些便是今天红狼（Canis rufus）和郊狼（Canis latrans）的祖先。然而，我们的主角——灰狼（Canis
+        lupus）的基因仍旧蕴藏在各种狼的体内，等待时机一到便组装为真正的终极动物杀手。</div>
+    <div class="para" label-module="para">在500万年前的<a target="_blank"
+            href="/item/%E4%B8%8A%E6%96%B0%E4%B8%96">上新世</a>到180万年前的<a target="_blank"
+            href="/item/%E6%9B%B4%E6%96%B0%E4%B8%96">更新世</a>时期，犬科动物先后到达了非洲和南美洲，并在全世界繁衍起来。这一阶段中，郊狼和红狼从它们的祖先中分化出来，郊狼和红狼只分布于北美地区，由于体型甚小，它们一般不具备捕杀大型猎物的能力，并且，我们一般所指的狼并不包括此两者，而仅仅是指灰狼。
+    </div>
+    <div class="para" label-module="para">一种大名鼎鼎的狼在更新世晚期出现，这便是恐狼（Canis
+        dirus）。恐狼的名气之所以大不仅仅是因为它较大的体型，更是因为它直到8,000年前才灭绝。这使得恐狼成为除灰狼外，人类可能曾经面对过的 唯一一种“大灰狼”</div>
+    <div class="para" label-module="para">恐狼一直生活在北美大陆，传说中的恐狼具有凶恶的眼神，钢铁般的脸庞，潜伏在黑夜之中，吼唱着它们那感激死者的恐狼之歌。</div>
+    <div class="para" label-module="para">
+        传说中的恐狼十分可怕，但从化石上看来，事实上恐狼只是比灰狼略大一些罢了。恐狼的牙齿要比灰狼有力，从这一点上推断，恐狼可能更轻易地咬碎猎物的骨头来食取里面的骨髓。</div>
+    <div class="para" label-module="para">
+        恐狼应该是典型的机会捕食者，在洛杉矶著名的沥青坑中有3,600具恐狼骨骼，这比其他动物要多的多，这说明它们常常潜伏在这片沼泽中以伺机猎杀陷进沼泽的猎物。恐狼比较健壮的一个原因是，恐狼主要的猎物长角野牛、西方马都是十分健壮的动物。尽管洛杉矶的恐狼化石最为丰富，但恐狼的第一次发现则是在1854年的费城，1858年雷第博士第一次将这种灭绝不久的物种命名为恐狼。
+    </div>
+    <div class="para" label-module="para">灰狼的出现甚至要比恐狼还早一些，这种存活的犬科之王发源于距今30万年的更新世中期，最先出现的地点是欧亚大陆，然后从白令海峡的大陆桥扩散至美洲大陆。
+    </div>
+    <div class="para" label-module="para">灰狼曾经和恐狼共同生活过近10万年的时间。由于恐狼从没有到过<a target="_blank"
+            href="/item/%E6%AC%A7%E4%BA%9A%E5%A4%A7%E9%99%86">欧亚大陆</a>，而从今天的结果<a
+            class="lemma-album layout-right nslog:10000206" title="狼"
+            href="/pic/%E7%8B%BC/12717/13150943/f3d3572c11dfa9ec9f7d71d960d0f703908fc1a8?fr=lemma&amp;ct=cover"
+            target="_blank" style="width:175px;" nslog-type="10000206">
+            <div class="album-wrap" style="width:173px;height:220px;">
+                <img class="picture" alt="狼"
+                    src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=e258bd3d7b310a55c024d9f687444387/f3d3572c11dfa9ec9f7d71d960d0f703908fc1a8.jpg"
+                    style="width:173px;height:220px;">
+            </div>
+            <div class="description">
+                狼<span class="number">(15张)</span>
+            </div>
+            <div class="albumBg">
+                <div class="albumBgFir" style="width:167px;"></div>
+                <div class="albumBgSec" style="width:161px;"></div>
+            </div>
+        </a>
+        看来，远道而来的灰狼的生存能力似乎更强。灰狼和恐狼到底多大强度的竞争我们不得而知，但仅从体型来看，两者的<a target="_blank"
+            href="/item/%E7%94%9F%E6%80%81%E4%BD%8D%E9%87%8D%E5%8F%A0">生态位重叠</a>应该相当明显，也就是说两位经验老到的猎手具有类似的猎物。在猎物足够丰盛的情况下两者似乎相安无事，但是一旦条件发生变化，那么两者之间的真正差距便暴露无遗，虽然不一定存在厮杀与搏斗，但爪牙之间的较量却已经体现在捕食的效率上了，最终的结局自然是强者生存，弱者淘汰。
+    </div>
+    <div class="para" label-module="para">灰狼能够取得进化上的成功并不只是因为它仅仅胜恐狼一筹，食性、行为、捕食策略、自身的身体结构等多方面的进化特征使它更能适应当前的条件。</div>
+    <div class="anchor-list">
+        <a name="5" class="lemma-anchor para-title"></a>
+        <a name="sub6057143_5" class="lemma-anchor "></a>
+        <a name="与狗关系" class="lemma-anchor "></a>
+    </div>
+    <div class="para-title level-2" label-module="para-title">
+        <h2 class="title-text"><span class="title-prefix">狼</span>与狗关系</h2>
+        <a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;" style="display: block;"><em
+                class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+    </div>
+    <div class="para" label-module="para">狗是人类日常生活中常出现的宠物，而可能是被驯化了的狼的后代。</div>
+    <div class="para" label-module="para">狗的祖先可能是东亚的狼。</div>
+    <div class="para" label-module="para">
+        科学家在对来自于欧洲、亚洲、非洲和北美洲的上百只狗进行DNA分析后发现，世界上所有的狗的基因都有着相似的基因序列，因此他们得出结论，世界上所有的家狗都是在大约1.5万年前，从<a target="_blank"
+            href="/item/%E4%B8%9C%E4%BA%9A%E7%8B%BC">东亚狼</a>进化而来的。这些狗的祖先和美洲最早的定居者通过<a target="_blank"
+            href="/item/%E7%99%BD%E4%BB%A4%E6%B5%B7%E5%B3%A1">白令海峡</a>，一起穿越亚洲和欧洲到达美洲的。</div>
+    <div class="para" label-module="para">瑞典和中国的科学家们对654只狗的基因进行了研究，结果发现了东亚狗的基因具有很强的多样性，这说明东亚人是最早把狼驯服成狗的。<div
+            class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+            <a class="image-link" nslog-type="9317"
+                href="/pic/%E7%8B%BC/12717/0/5d212aa8303a97f1ca130c02?fr=lemma&amp;ct=single" target="_blank"
+                title="狼与哈士奇对比图" style="width:220px;height:210px;">
+                <img class=""
+                    src="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=3550d3aa15ce36d3a60484320af23a24/4ec2d5628535e5dd89f48aaf76c6a7efcf1b62e1.jpg"
+                    alt="狼与哈士奇对比图" style="width:220px;height:210px;">
+            </a>
+            <span class="description">
+                狼与哈士奇对比图
+            </span>
+        </div>该研究成果发表在最新的《科学》杂志上，领导这项研究的研究员，来自瑞典皇家技术学院的彼得·萨沃雷恩称，人类根据很少的证据，最初猜测狗的祖先来自于中东，因为在中东的一些考古发现证明，许多动物都是在该地区被驯服的。
+    </div>
+    <div class="para" label-module="para">
+        美国、拉丁美洲和瑞典的研究者的研究则发现，在欧洲的定居者15世纪来到美洲之前，具有和东亚狼近似基因的狗已经在美洲出现了。这表明，首批于1.2至1.4万年前通过白令海峡到达美洲的定居者当时携带着驯服的狼（也就是狗）来到美洲。
+    </div>
+    <div class="para" label-module="para">美国俄普萨拉大学的研究员卡尔斯·维拉称，狗的存在可以解释，为何美洲大陆的定居者散布的速度相对较快。</div>
+    <div class="para" label-module="para">
+        这两项研究在狗是何时被从狼驯化而来这个问题上出现了分歧，起初在德国发现的狗的下颌骨大约有1.4万年的历史，瑞典和中国科学家的研究小组认为，DNA分析和考古发现共同显示，狗被驯化的时间是在1.5万年前。</div>
+    <div class="para" label-module="para">狗的祖先是不是狼，基本确定，但仍有歧义。</div>
+    <div class="para" label-module="para">现存纯种狗中，有五种犬与狼的血统最为接近，分别是：<a target="_blank"
+            href="/item/%E8%93%9D%E6%B9%BE%E7%89%A7%E7%BE%8A%E7%8A%AC">蓝湾牧羊犬</a>、<a target="_blank"
+            href="/item/%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9A%E9%9B%AA%E6%A9%87%E7%8A%AC">西伯利亚雪橇犬</a>[Siberian Husky]、<a
+            target="_blank" href="/item/%E6%8D%B7%E5%85%8B%E7%8B%BC%E7%8A%AC">捷克狼犬</a>、<a target="_blank"
+            href="/item/%E8%90%A8%E5%B0%94%E8%B7%AF%E6%96%AF%E7%8C%8E%E7%8B%BC%E7%8A%AC">萨尔路斯猎狼犬</a>和鲁波狼犬。丧子的母狼会收养其他的幼崽（包括人婴）。狼是草原的保护神，内蒙古沙化的原因有90%是因为过度猎杀狼，和狼打交道，<a
+            target="_blank" href="/item/%E4%B8%89%E5%8D%81%E5%85%AD%E8%AE%A1/25221"
+            data-lemmaid="25221">三十六计</a>除了美人计都要用上。</div>
+    <div class="anchor-list">
+        <a name="6" class="lemma-anchor para-title"></a>
+        <a name="sub6057143_6" class="lemma-anchor "></a>
+        <a name="狼之进化" class="lemma-anchor "></a>
+    </div>
+    <div class="para-title level-2" label-module="para-title">
+        <h2 class="title-text"><span class="title-prefix">狼</span>狼之进化</h2>
+        <a class="edit-icon j-edit-link" data-edit-dl="6" href="javascript:;" style="display: block;"><em
+                class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+    </div>
+    <div class="para" label-module="para">古代生物进化过程中，食肉性动物中进化最为完美的三种顶级动物，为泰坦鸟、<a target="_blank"
+            href="/item/%E5%89%91%E9%BD%BF%E8%99%8E">剑齿虎</a>、狼，今天我们只能看见其中的狼，而恐鸟（泰坦鸟）、剑齿虎都已灭绝。</div>
+    <div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" title="狼"
+            href="/pic/%E7%8B%BC/12717/2648855/b25aae5190500855367abebc?fr=lemma&amp;ct=cover" target="_blank"
+            style="width:222px;" nslog-type="10000206">
+            <div class="album-wrap" style="width:220px;height:137px;">
+                <img class="picture" alt="狼"
+                    src="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=d2e8435c728b4710ca2ffacef3cfc3b2/faedab64034f78f09f7f218e79310a55b3191c52.jpg"
+                    style="width:220px;height:137px;">
+            </div>
+            <div class="description">
+                狼<span class="number">(20张)</span>
+            </div>
+            <div class="albumBg">
+                <div class="albumBgFir" style="width:214px;"></div>
+                <div class="albumBgSec" style="width:208px;"></div>
+            </div>
+        </a>
+    </div>
+    <div class="para" label-module="para">狼在距今500万年的时候起源于地球，狗和 狼都有39对<a target="_blank"
+            href="/item/%E6%9F%93%E8%89%B2%E4%BD%93">染色体</a>,即78条.黑背、侧纹<a target="_blank"
+            href="/item/%E8%83%A1%E7%8B%BC">胡狼</a>染色体少一对。在漫长的进化过程中，很多较具备强者实力的动物已灭绝，可狼却生存了下来，因为它们是群体集结生存，团体捕猎，形成了一个庞大的社会。也许正如<a
+            target="_blank" href="/item/%E8%BE%BE%E5%B0%94%E6%96%87">达尔文</a>所说：<b>“</b><b>物竞天择，适者生存</b><b>”。</b></div>
+    <div class="para" label-module="para">距今约五百万年前的上新世纪中期，狼起源于新大陆，并在一百五十万年前的更新世中期分化发展。</div>
+    <div class="para" label-module="para">大约在6,500多万年以前的中生代<a target="_blank"
+            href="/item/%E7%99%BD%E5%9E%A9%E7%BA%AA">白垩纪</a>晚期，恐龙的突然灭绝给了哺乳动物繁荣昌盛的绝佳机会。在此后的1,000多万年的时间里，随着新生代的大幕逐渐拉开，各种小型哺乳动物纷纷登上了进化史的舞台。
+    </div>
+    <div class="para" label-module="para">在距今大约5,000万年的新生代始新世，现代<a target="_blank"
+            href="/item/%E9%A3%9F%E8%82%89%E5%8A%A8%E7%89%A9">食肉动物</a>的共同祖先开始出现，以<a target="_blank"
+            href="/item/%E7%BB%86%E9%BD%BF%E5%85%BD">细齿兽</a>（Miacis）的出现为标志，食肉类动物正式走上了漫长的进化之路。</div>
+    <div class="anchor-list">
+        <a name="7" class="lemma-anchor para-title"></a>
+        <a name="sub6057143_7" class="lemma-anchor "></a>
+        <a name="种群现状" class="lemma-anchor "></a>
+    </div>
+    <div class="para-title level-2" label-module="para-title">
+        <h2 class="title-text"><span class="title-prefix">狼</span>种群现状</h2>
+        <a class="edit-icon j-edit-link" data-edit-dl="7" href="javascript:;" style="display: block;"><em
+                class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+    </div>
+    <div class="para" label-module="para">
+        在中国华北、华中、华南各省份的活动仅于山区环境、不适应于人类开发的狭小的环境内。黑龙江、吉林、辽宁等省的狼的分布也仅限于山区。狼是食肉目中分布最为广泛的，即使在所有哺乳动物中，其分布范围也仅仅小于人和其它少数几种啮齿类动物。在北半球的部分地区，包括草原、苔原、针叶林和落叶林、沼泽和沙漠中，有它们的身影。但在这背后，灰狼面临的实际情况是：在大多数地区，它们全球的数量不足一万只。
+    </div>
+    <div class="para" label-module="para">
+        美国除北部几个州的大部分地区已经没有了狼的踪迹（由于生态学者的研究表明狼在生态系统中的地位不可替代，因此在美国的很多地方狼群正被重新引入），墨西哥的野生狼群已经在1960年灭绝，亚洲的大部分地区同样如此。欧洲的情况最糟，除了西班牙、意大利、波兰、希腊和土耳其还有少量的狼群外，其他地区的几乎都已经灭绝了。
+    </div>
+    <div class="para" label-module="para"><b>死亡原因</b></div>
+    <div class="para" label-module="para">成年狼的死亡大多因<a target="_blank"
+            href="/item/%E7%8B%A9%E7%8C%8E">狩猎</a>和偷猎、疾病及创伤而造成。尽管成年狼偶尔也被竞争对手或猎物杀死，但它们最危险的非人类的敌人就是狼本身。</div>
+    <div class="para" label-module="para">研究狼死亡率出来的结果显示， 14 %--65 %的狼死亡是因为其他的狼进行攻击。</div>
+    <div class="para" label-module="para">另外，狼受家犬感染，如<a target="_blank"
+            href="/item/%E7%8B%82%E7%8A%AC%E7%97%85">狂犬病</a>，细小病毒和<a target="_blank"
+            href="/item/%E7%8A%AC%E7%98%9F%E7%83%AD">犬瘟热</a>等流行病也是一大原因。</div>
+    <div class="anchor-list">
+        <a name="8" class="lemma-anchor para-title"></a>
+        <a name="sub6057143_8" class="lemma-anchor "></a>
+        <a name="灭绝亚种" class="lemma-anchor "></a>
+    </div>
+    <div class="para-title level-2" label-module="para-title">
+        <h2 class="title-text"><span class="title-prefix">狼</span>灭绝亚种</h2>
+        <a class="edit-icon j-edit-link" data-edit-dl="8" href="javascript:;" style="display: block;"><em
+                class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+    </div>
+    <div class="para" label-module="para"><a target="_blank"
+            href="/item/%E7%BA%BD%E8%8A%AC%E5%85%B0%E7%99%BD%E7%8B%BC">纽芬兰白狼</a>（1911年灭绝，加拿大）<div
+            class="lemma-picture text-pic layout-right" style="width:220px; float: right;">
+            <a class="image-link" nslog-type="9317"
+                href="/pic/%E7%8B%BC/12717/0/b812c8fcc3cec3fdce150befd688d43f87942704?fr=lemma&amp;ct=single"
+                target="_blank" title="最早灭绝的南极狼" style="width:220px;height:147px;">
+                <img class="lazy-img"
+                    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg=="
+                    data-src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=ab33259b5c6034a82de2bf83fb1249d9/b812c8fcc3cec3fdce150befd688d43f87942704.jpg"
+                    alt="最早灭绝的南极狼" style="width:220px;height:147px;">
+            </a>
+            <span class="description">
+                最早灭绝的南极狼
+            </span>
+        </div>
+    </div>
+    <div class="para" label-module="para"><a target="_blank"
+            href="/item/%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%E7%BA%A2%E7%8B%BC">德克萨斯红狼</a>（1970年灭绝，美国）</div>
+    <div class="para" label-module="para"><a target="_blank"
+            href="/item/%E5%8D%97%E6%9E%81%E7%8B%BC">南极狼</a>（1857年灭绝，阿根廷）</div>
+    <div class="para" label-module="para"><a target="_blank"
+            href="/item/%E5%9F%BA%E5%A5%88%E5%B1%B1%E7%8B%BC">基奈山狼</a>（1915年灭绝，美国）</div>
+    <div class="para" label-module="para"><a target="_blank"
+            href="/item/%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E9%BB%91%E7%8B%BC">佛罗里达黑狼</a>（1917年灭绝，美国）</div>
+    <div class="para" label-module="para"><a target="_blank"
+            href="/item/%E6%97%A5%E6%9C%AC%E7%8B%BC">日本狼</a>（1905年灭绝，日本）</div>
+    <div class="para" label-module="para"><a target="_blank"
+            href="/item/%E5%8C%97%E6%B5%B7%E9%81%93%E7%8B%BC">北海道狼</a>（1889年灭绝，日本）</div>
+    <div class="para" label-module="para"><a target="_blank"
+            href="/item/%E5%96%80%E6%96%AF%E5%96%80%E7%89%B9%E6%A3%95%E7%8B%BC">喀斯喀特棕狼</a>（1950年灭绝，美国、加拿大）</div>
+    <div class="para" label-module="para"><a target="_blank"
+            href="/item/%E5%8D%97%E8%90%BD%E5%9F%BA%E5%B1%B1%E7%8B%BC">南落基山狼</a>（1935年灭绝，美国）</div>
+    <div class="para" label-module="para">德克萨斯灰狼（1942年灭绝，美国）</div>
+    <div class="anchor-list">
+        <a name="9" class="lemma-anchor para-title"></a>
+        <a name="sub6057143_9" class="lemma-anchor "></a>
+        <a name="保护措施" class="lemma-anchor "></a>
+    </div>
+    <div class="para-title level-2" label-module="para-title">
+        <h2 class="title-text"><span class="title-prefix">狼</span>保护措施</h2>
+        <a class="edit-icon j-edit-link" data-edit-dl="9" href="javascript:;" style="display: block;"><em
+                class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+    </div>
+    <div class="para" label-module="para">1、开展科学研究，应对全国狼的种群数量、亚种分化进行全面调查，查清狼的分布和种群数量现状，对其益害进行科学评估，从而制定一系列保护和控制措施.</div>
+    <div class="para" label-module="para">2、加强法制管理，应考虑禁止任意捕杀狼。在确有狼群危害严重的地区，采取必要措施对狼的种群数量加以控制，也必须在专家评估的基础上，有领导有组织地进行.
+    </div>
+    <div class="para" label-module="para">3、加强国际合作，特别加强与中国毗邻的独联体、蒙古、印度、阿富汗、巴基斯坦等国的协作。</div>
+    <div class="para" label-module="para">4、控制商业贸易，除个人少量携带之外，所有标本，任何出口必须取得出口许可证<sup class="sup--normal" data-sup="4"
+            data-ctrmap=":4,">
+            [4]</sup><a class="sup-anchor" name="ref_[4]_6057143">&nbsp;</a>
+    </div>
+    <div class="anchor-list">
+        <a name="10" class="lemma-anchor para-title"></a>
+        <a name="sub6057143_10" class="lemma-anchor "></a>
+        <a name="保护级别" class="lemma-anchor "></a>
+    </div>
+    <div class="para-title level-2" label-module="para-title">
+        <h2 class="title-text"><span class="title-prefix">狼</span>保护级别</h2>
+        <a class="edit-icon j-edit-link" data-edit-dl="10" href="javascript:;" style="display: block;"><em
+                class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+    </div>
+    <div class="para" label-module="para">狼 Canis lupus(仅不丹、印度、尼泊尔和巴基斯坦种群；所有其它种群都被列入附录Ⅱ。除其家养型，即狗 Canislupus familiaris
+        和澳洲野狗 Canis lupusdingo 不受公约条款管制。)</div>
+    <div class="para" label-module="para">狼 Canis lupus(除被列入附录Ⅰ的不丹、印度、尼泊尔和巴基斯坦种群。除其家养型，即狗 Canis lupus familiaris 和澳洲野狗
+        Canis lupus dingo 不受公约条款管制。)<sup class="sup--normal" data-sup="5" data-ctrmap=":5,">
+            [5]</sup><a class="sup-anchor" name="ref_[5]_6057143">&nbsp;</a>
+    </div>
+    <div class="anchor-list">
+        <a name="11" class="lemma-anchor para-title"></a>
+        <a name="sub6057143_11" class="lemma-anchor "></a>
+        <a name="亚种保护" class="lemma-anchor "></a>
+    </div>
+    <div class="para-title level-2" label-module="para-title">
+        <h2 class="title-text"><span class="title-prefix">狼</span>亚种保护</h2>
+        <a class="edit-icon j-edit-link" data-edit-dl="11" href="javascript:;" style="display: block;"><em
+                class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+    </div>
+    <table log-set-param="table_view" class="table-view log-set-param">
+        <tbody>
+            <tr>
+                <td width="153" valign="top" class="coloredcell"><b>名称</b></td>
+                <td width="153" valign="top" class="coloredcell"><b>cites附录等级</b></td>
+                <td width="153" valign="top" colspan="1" rowspan="1" class="coloredcell"><b>中国物种红色名录</b></td>
+                <td width="153" valign="top" colspan="1" rowspan="1" class="coloredcell">IUCN 红色名录</td>
+            </tr>
+            <tr>
+                <td width="153" valign="top">灰狼</td>
+                <td width="153" valign="top">Ⅱ</td>
+                <td width="153" valign="top" colspan="1" rowspan="1">VU</td>
+                <td width="153" valign="top" colspan="1" rowspan="1">LC(2010)<sup class="sup--normal" data-sup="4"
+                        data-ctrmap=":4,">
+                        [4]</sup><a class="sup-anchor" name="ref_[4]_6057143">&nbsp;</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="anchor-list">
+        <a name="a" class="lemma-anchor a"></a>
+    </div>
+    <div class="album-list">
+        <div class="header">
+            <span class="title">词条图册</span>
+            <a class="more-link" href="/pic/%E7%8B%BC/12717?fr=lemma" target="_blank"
+                nslog-type="10000204">更多图册<em></em></a>
+        </div>
+        <div class="scroller">
+            <div class="list">
+            </div>
+        </div>
+        <div class="footer">
+        </div>
+    </div>
+    <div class="tashuo-bottom" id="tashuo_bottom">
+        <div class="tashuo-bottom-title-essence">
+            <img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/ta-logo-blue_5458427.png"
+                alt="">
+            <span>解读词条背后的知识</span>
+        </div>
+    </div>
