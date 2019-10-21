@@ -8,6 +8,7 @@ const config = require('./config.js')
 const News = require('./Public/Controller/NewsController.js')
 const Comment = require('./Public/Controller/CommentController.js')
 const ImgController = require('./Public/Controller/ImgController.js')
+const GoodsController = require('./Public/Controller/GoodsController.js')
 
 const server = http.createServer((req, res) => {
     // https://www.jianshu.com/p/d7fcd17d79a9
@@ -19,8 +20,12 @@ server.on('request', (req, res) => {
 
     console.log(new Date().toString())
     console.log(req.url)
+    let _url_lower = req.url.toLowerCase()
+    // let { pathname, query } = url.parse(_url_lower,true)
     // https://nodejs.org/dist/latest-v12.x/docs/api/url.html
-    let { pathname, query } = url.parse(req.url.toLowerCase())
+    // 使用新的URL API，但是新 api 没有 query 属性，使用的是 searchParams
+    // https://nodejs.org/dist/latest-v12.x/docs/api/url.html#url_class_urlsearchparams
+    let { pathname, searchParams } = new URL(_url_lower, config.address) // @@这个接口必须要提供基础路径，有什么办法在node中得到基础路径呢？
 
     if (pathname.indexOf('/api') === 0) {
         if (pathname == '/api/getlunbotu') {
@@ -77,6 +82,19 @@ server.on('request', (req, res) => {
             let images = ImgController.getImageInfo(_id)
             let result = JSON.stringify(images)
             res.end(result)
+            return
+        }
+        else if (pathname.indexOf('/api/gethumimages') == 0) {
+            let _id = pathname.split('/')[3]
+            let images = ImgController.geThumImages(_id)
+            let result = JSON.stringify(images)
+            res.end(result)
+            return
+        } else if (pathname.indexOf('/api/getgoods') == 0) {
+            let _pageindex = searchParams.get('pageindex')
+            let _goodsList = GoodsController.getGoodsList(_pageindex)
+            let _result = JSON.stringify(_goodsList)
+            res.end(_result)
             return
         }
     }

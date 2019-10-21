@@ -72,8 +72,21 @@ let getImageInfo = function (imgid) {
     return result
 }
 
+let geThumImages = function (imgid) { // 其实这里穿的是imgid，这是没问题的，但是我去image里头找了，而images里头用的是cateid
+    let _imgs = []
+    for (let i in images) {
+        let img = images[i]
+        if (true) {
+            _imgs.push({ src: img.img_url })
+        }
+    }
+    let result = { status: 0, message: _imgs }
+    return result
+}
+
 module.exports = {
     getImgCategory: getImgCategory,
     getImages: getImages,
-    getImageInfo: getImageInfo
+    getImageInfo: getImageInfo,
+    geThumImages: geThumImages
 }
