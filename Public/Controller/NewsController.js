@@ -3,15 +3,36 @@ const db = require(`../../db/NewsInfo/News.js`)
 const path = require('path')
 
 
-let getNewsList = function () {
-    let result = { status: 0, message: db.News }
+let getNewsList = function (_pageindex) {
+    let _newsList = []
+    console.log(db.News.length)
+    for (let i = 0; i < db.News.length; i++) {
+        let _new = db.News[i]
+
+        // paging
+        let _min = 10 * (_pageindex - 1)
+        let _max = 10 * _pageindex
+        let _nopaging = _pageindex === null || _pageindex === undefined
+        if (_nopaging || (i >= _min && i < _max)) {
+            _newsList.push(_new)
+            _newsList.push({
+                id: _new.id,
+                title: _new.title,
+                add_time: _new.add_time,
+                zhaiyao: _new.zhaiyao,
+                click: _new.click,
+                img_url: _new.img_url
+            })
+        }
+    }
+    let result = { status: 0, message: _newsList }
     return result
 }
 
-let getNewsInfo = function (_id) {
+let getNewsInfo = function (_newsid) {
     let result = { status: -1, message: null }
 
-    var _index = db.News.findIndex(p => p.id == _id)
+    var _index = db.News.findIndex(p => p.id == _newsid)
     if (_index > -1) {
         var msg = db.News[_index]
 

@@ -43,13 +43,16 @@ server.on('request', (req, res) => {
             res.end(JSON.stringify(result))
             return
         } else if (pathname == '/api/getnewslist') {
-            let result = JSON.stringify(News.getNewsList())
-            res.end(result)
+            let _pageindex = searchParams.get('pageindex')
+            let _newslist = News.getNewsList(_pageindex)
+            let _result = JSON.stringify(_newslist)
+            res.end(_result)
             return
         } else if (pathname.indexOf('/api/getnewsinfo') == 0) {
-            let _id = pathname.split('/')[3]
-            let result = JSON.stringify(News.getNewsInfo(_id))
-            res.end(result)
+            let _newsid = pathname.split('/')[3]
+            let _newsinfo = News.getNewsInfo(_newsid)
+            let _result = JSON.stringify(_newsinfo)
+            res.end(_result)
             return
         }
         else if (pathname.indexOf('/api/getcomments') == 0) {
