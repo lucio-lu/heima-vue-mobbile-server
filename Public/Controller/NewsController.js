@@ -59,7 +59,7 @@ let getNewsInfo = function (_newsid) {
 
         let exists = fs.existsSync(_newsContentPath)
         if (exists) {
-            let dataStr = fs.readFileSync(_newsContentPath, 'UTF-8')//@@@这里为什么要从public开始，而不是../
+            let dataStr = fs.readFileSync(_newsContentPath, 'UTF-8')//@@@这里为什么要从public开始，而不是../  而且看最上面的require就是好的
             var msginfo = [{
                 id: msg.id,
                 title: msg.title,

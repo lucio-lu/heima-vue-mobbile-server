@@ -1,5 +1,8 @@
 const config = require('../../config.js')
 const fs = require('fs')
+const global = require('../../config.js')
+
+const dbImages = require('../../DB/Image/Image.js')
 
 let category = [
     { title: '摄影设计', id: 14 },
@@ -72,21 +75,27 @@ let getImageInfo = function (imgid) {
     return result
 }
 
-let geThumImages = function (imgid) { // 其实这里穿的是imgid，这是没问题的，但是我去image里头找了，而images里头用的是cateid
-    let _imgs = []
-    for (let i in images) {
-        let img = images[i]
-        if (true) {
-            _imgs.push({ src: img.img_url })
-        }
-    }
-    let result = { status: 0, message: _imgs }
+let getThumImages = function (imgId) {
+    let _thumImgs = []
+
+    let _imgList = dbImages.images
+    let _img = _imgList.find(img => img.id == imgId)
+    let _thumId = _img.thunid
+
+    _imgList.forEach(img => {
+        if (img.thunid == _thumId)
+            _thumImgs.push({
+                src: global.address + global.img_address + img.id + '.jpg',
+            })
+    })
+    let result = { status: 0, message: _thumImgs }
     return result
 }
+
 
 module.exports = {
     getImgCategory: getImgCategory,
     getImages: getImages,
     getImageInfo: getImageInfo,
-    geThumImages: geThumImages
+    getThumImages: getThumImages
 }
