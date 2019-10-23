@@ -36,7 +36,24 @@ let getThumImagesGoods = function (_goodsId) {
     return _thumImgs
 }
 
+let getInfo = function (_goodsId) {
+    let _goodsList = db_goods.goodsList
+    let _goods = _goodsList.find(item => item.id == _goodsId)
+    let _goodsInfo = {
+        id: _goods.id,
+        title: _goods.title,
+        add_time: _goods.add_time,
+        goods_no: _goods.goods_no,
+        stock_quantity: _goods.stock_quantity,
+        market_price: _goods.market_price,
+        sell_price: _goods.sell_sprice
+    }
+    let result = { status: 0, message: _goodsInfo }
+    return result
+}
+
 module.exports = {
     getGoodsList: getGoodsList,
-    getThumImagesGoods: getThumImagesGoods
+    getThumImagesGoods: getThumImagesGoods,
+    getInfo: getInfo
 }

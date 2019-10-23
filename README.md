@@ -155,4 +155,43 @@ node app.js
 
 
 
-#### 2. 获取商品详情
+#### 2. 获取商品轮播图
+
+``` javascript
+// GET /api/getthumimagesgoods/:id
+{
+    status: ,
+    message: [
+    {
+        src:
+    },
+    ...
+    ]
+}
+```
+
+> 注意：这里教程里用到是 `GET /api/getthunimages/:id` ，但是这个 API 最早在 *图片分享* 页面参数传入的是 image_id，然现在教程中传入的是 goods_id，所以我这里创建了这个新的 API，传入goods_id，API 会通过goods_id得到对应商品的image_id，然后再得到图片并返回结果。
+
+
+
+#### 3. 获取商品详情 - 参数、价格、标题等数据
+
+``` javascript
+// GET /api/goods/getinfo/:id
+{
+    status: ,
+    message: [
+    {
+        id: ,
+        title: ,
+        add_time:,
+        goods_no:,
+        stock_quantity:,
+        market_price:,
+        sell_price:
+    },
+    ...
+    ]
+}
+```
+

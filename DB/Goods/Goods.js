@@ -10,7 +10,8 @@ let goodsList = [
         //img_url: 'https://img10.360buyimg.com/n1/s450x450_jfs/t1/54036/4/11011/73264/5d818e41E6bb3d5a3/184aa0cf69e4387b.jpg',
         sell_sprice: 4198,
         market_price: 5900,
-        stock_quantity: 60
+        stock_quantity: 60,
+        goods_no: 100008348550
         // https://item.jd.com/100008348550.html
     },
     {
@@ -23,7 +24,8 @@ let goodsList = [
         //img_url: 'https://img14.360buyimg.com/n0/jfs/t1/81621/11/13285/468711/5da8527aEbd07c77a/62f32db5b6606ee2.jpg',
         sell_sprice: 1399,
         market_price: 1799,
-        stock_quantity: 70
+        stock_quantity: 70,
+        goods_no: 100009177388
         // https://item.jd.com/100009177388.html
     },
     {
@@ -36,7 +38,8 @@ let goodsList = [
         //img_url: 'https://img13.360buyimg.com/n1/s180x180_jfs/t1/60872/39/1055/82913/5cf4ad88E97c9768b/7b5c5e777a407b1b.jpg',
         sell_sprice: 2999,
         market_price: 3299,
-        stock_quantity: 65
+        stock_quantity: 65,
+        goods_no: 100004418727
         // https://item.jd.com/100004418727.html
     },
     {
@@ -49,7 +52,8 @@ let goodsList = [
         //img_url: 'https://img14.360buyimg.com/n0/jfs/t1/52311/32/10498/177816/5d780881Edbb95ec5/6702694da06497a8.jpg',
         sell_sprice: 9999,
         market_price: 9999,
-        stock_quantity: 62
+        stock_quantity: 62,
+        goods_no: 100004770257
         // https://item.jd.com/100004770257.html
     },
     {
@@ -62,7 +66,8 @@ let goodsList = [
         //img_url: 'https://img14.360buyimg.com/n0/jfs/t1/75294/27/10694/217626/5d82fbabE9da1ddce/8d225d3a4f313074.jpg',
         sell_sprice: 3199,
         market_price: 3299,
-        stock_quantity: 69
+        stock_quantity: 69,
+        goods_no: 100008425798
         // https://item.jd.com/100008425798.html
     },
     {
@@ -75,7 +80,8 @@ let goodsList = [
         //img_url: 'https://img14.360buyimg.com/n0/jfs/t1/46683/24/11685/195522/5d88a63aE5fcd27d0/762a90a98b784bcb.jpg',
         sell_sprice: 3199,
         market_price: 3299,
-        stock_quantity: 59
+        stock_quantity: 59,
+        goods_no: 100007381674
         // https://item.jd.com/100007381674.html
     },
     {
@@ -88,7 +94,8 @@ let goodsList = [
         //img_url: 'https://img14.360buyimg.com/n0/jfs/t26011/344/2535984016/150198/1da3ef20/5be7c834N10d4c88f.jpg',
         sell_sprice: 3199,
         market_price: 3299,
-        stock_quantity: 52
+        stock_quantity: 52,
+        goods_no: 36709974231
         // https://item.jd.com/36709974231.html
     },
     {
@@ -101,7 +108,8 @@ let goodsList = [
         //img_url: 'https://img14.360buyimg.com/n0/jfs/t1/74767/1/827/258672/5cf0c304E264ae29f/fed0b23aa7d3eaf8.jpg',
         sell_sprice: 2998,
         market_price: 3299,
-        stock_quantity: 39
+        stock_quantity: 39,
+        goods_no: 100005741508
         // https://item.jd.com/100005741508.html
     },
     {
@@ -114,7 +122,8 @@ let goodsList = [
         //img_url: 'https://img14.360buyimg.com/n0/jfs/t1/50123/30/13765/153000/5da9c26dE94c83b32/fe9ea1bc1cd954e4.jpg',
         sell_sprice: 1898,
         market_price: 2199,
-        stock_quantity: 43
+        stock_quantity: 43,
+        goods_no: 100006386682
         // https://item.jd.com/100006386682.html
     }
 ]
