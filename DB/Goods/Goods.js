@@ -1,4 +1,5 @@
 
+
 let goodsList = [
     {
         id: 87,
@@ -11,7 +12,7 @@ let goodsList = [
         sell_sprice: 4198,
         market_price: 5900,
         stock_quantity: 60,
-        goods_no: 100008348550
+        goods_no: 'GD100008348550'
         // https://item.jd.com/100008348550.html
     },
     {
@@ -25,7 +26,7 @@ let goodsList = [
         sell_sprice: 1399,
         market_price: 1799,
         stock_quantity: 70,
-        goods_no: 100009177388
+        goods_no: 'GD100009177388'
         // https://item.jd.com/100009177388.html
     },
     {
@@ -39,7 +40,7 @@ let goodsList = [
         sell_sprice: 2999,
         market_price: 3299,
         stock_quantity: 65,
-        goods_no: 100004418727
+        goods_no: 'GD100004418727'
         // https://item.jd.com/100004418727.html
     },
     {
@@ -53,7 +54,7 @@ let goodsList = [
         sell_sprice: 9999,
         market_price: 9999,
         stock_quantity: 62,
-        goods_no: 100004770257
+        goods_no: 'GD100004770257'
         // https://item.jd.com/100004770257.html
     },
     {
@@ -67,7 +68,7 @@ let goodsList = [
         sell_sprice: 3199,
         market_price: 3299,
         stock_quantity: 69,
-        goods_no: 100008425798
+        goods_no: 'GD100008425798'
         // https://item.jd.com/100008425798.html
     },
     {
@@ -81,7 +82,7 @@ let goodsList = [
         sell_sprice: 3199,
         market_price: 3299,
         stock_quantity: 59,
-        goods_no: 100007381674
+        goods_no: 'GD100007381674'
         // https://item.jd.com/100007381674.html
     },
     {
@@ -95,7 +96,7 @@ let goodsList = [
         sell_sprice: 3199,
         market_price: 3299,
         stock_quantity: 52,
-        goods_no: 36709974231
+        goods_no: 'GD36709974231'
         // https://item.jd.com/36709974231.html
     },
     {
@@ -109,7 +110,7 @@ let goodsList = [
         sell_sprice: 2998,
         market_price: 3299,
         stock_quantity: 39,
-        goods_no: 100005741508
+        goods_no: 'GD100005741508'
         // https://item.jd.com/100005741508.html
     },
     {
@@ -123,7 +124,7 @@ let goodsList = [
         sell_sprice: 1898,
         market_price: 2199,
         stock_quantity: 43,
-        goods_no: 100006386682
+        goods_no: 'GD100006386682'
         // https://item.jd.com/100006386682.html
     }
 ]

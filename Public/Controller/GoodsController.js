@@ -12,7 +12,7 @@ let getGoodsList = function (_pageindex) {
         if (i >= _min && i < _max) {
             let _goods = db_goods.goodsList[i]
             _goodslist.push({
-                id: _goods.id,
+                id: _goods.goods_no,
                 title: _goods.title,
                 add_time: _goods.add_time,
                 zhaiyao: _goods.zhaiyao,
@@ -29,18 +29,20 @@ let getGoodsList = function (_pageindex) {
     return result
 }
 
-let getThumImagesGoods = function (_goodsId) {
+let getThumImagesGoods = function (goodsNo) {
+    goodsNo = goodsNo.toUpperCase()
     let _goodsList = db_goods.goodsList
-    let _goods = _goodsList.find(item => item.id == _goodsId)
+    let _goods = _goodsList.find(item => item.goods_no == goodsNo)
     let _thumImgs = imgController.getThumImages(_goods.img_id) // @@@其实这里应该用跳转，跳转到另一个controll，而不是用方法调用
     return _thumImgs
 }
 
-let getInfo = function (_goodsId) {
+let getInfo = function (goodsNo) {
+    goodsNo = goodsNo.toUpperCase()
     let _goodsList = db_goods.goodsList
-    let _goods = _goodsList.find(item => item.id == _goodsId)
+    let _goods = _goodsList.find(item => item.goods_no == goodsNo)
     let _goodsInfo = {
-        id: _goods.id,
+        id: _goods.goods_no,
         title: _goods.title,
         add_time: _goods.add_time,
         goods_no: _goods.goods_no,
@@ -52,9 +54,10 @@ let getInfo = function (_goodsId) {
     return result
 }
 
-let getGoodsDesc = function (_goodsId) {
+let getGoodsDesc = function (goodsNo) {
+    goodsNo = goodsNo.toUpperCase()
     let goodsList = db_goods.goodsList
-    let goods = goodsList.find(item => item.id == _goodsId)
+    let goods = goodsList.find(item => item.goods_no == goodsNo)
     let imgDirectory = global.address + '/public/image/GoodsDesc/'
     let goodsDesc = [{
         title: goods.title,
