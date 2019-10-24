@@ -14,7 +14,6 @@ let getNewsList = function (_pageindex) {
         let _max = 10 * _pageindex
         let _nopaging = _pageindex === null || _pageindex === undefined
         if (_nopaging || (i >= _min && i < _max)) {
-            _newsList.push(_new)
             _newsList.push({
                 id: _new.id,
                 title: _new.title,
