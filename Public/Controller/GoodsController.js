@@ -52,8 +52,21 @@ let getInfo = function (_goodsId) {
     return result
 }
 
+let getGoodsDesc = function (_goodsId) {
+    let goodsList = db_goods.goodsList
+    let goods = goodsList.find(item => item.id == _goodsId)
+    let imgDirectory = global.address + '/public/image/GoodsDesc/'
+    let goodsDesc = [{
+        title: goods.title,
+        content: `<img src="${imgDirectory + goods.id + '.jpg'}">`
+    }]
+    let result = { status: 0, message: goodsDesc }
+    return result
+}
+
 module.exports = {
     getGoodsList: getGoodsList,
     getThumImagesGoods: getThumImagesGoods,
-    getInfo: getInfo
+    getInfo: getInfo,
+    getGoodsDesc: getGoodsDesc
 }

@@ -195,3 +195,23 @@ node app.js
 }
 ```
 
+
+
+#### 4. 获取商品图文介绍
+
+```` javascript
+// GET /api/goods/getdesc/:ID
+{
+    status: ,
+    message: [
+    {
+        title: ,
+        content:
+    },
+    ...
+    ]
+}
+````
+
+
+

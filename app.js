@@ -111,6 +111,12 @@ server.on('request', (req, res) => {
             let result = JSON.stringify(images)
             res.end(result)
             return
+        } else if (pathname.indexOf('/api/goods/getdesc') == 0) {
+            let _id = pathname.split('/')[4]
+            let images = GoodsController.getGoodsDesc(_id)
+            let result = JSON.stringify(images)
+            res.end(result)
+            return
         } else {
             console.log('Error: No Controller.')
             res.end('Error: No Controller.')
