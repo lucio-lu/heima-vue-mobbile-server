@@ -67,9 +67,31 @@ let getGoodsDesc = function (goodsNo) {
     return result
 }
 
+let getShopcarList = function (ids) {
+    let shopcarList = []
+
+    ids = ids.map(element => element.toUpperCase())
+    let goodsList = db_goods.goodsList
+    goodsList.forEach(element => {
+        if (ids.indexOf(element.goods_no) > -1) {
+            shopcarList.push({
+                cou: 1,
+                id: element.goods_no,
+                title: element.title,
+                sell_price: element.sell_sprice,
+                thumb_path: global.address + global.img_address + element.img_id + '.jpg',
+            })
+        }
+    })
+
+    let result = { status: 0, message: shopcarList }
+    return result
+}
+
 module.exports = {
     getGoodsList: getGoodsList,
     getThumImagesGoods: getThumImagesGoods,
     getInfo: getInfo,
-    getGoodsDesc: getGoodsDesc
+    getGoodsDesc: getGoodsDesc,
+    getShopcarList: getShopcarList
 }

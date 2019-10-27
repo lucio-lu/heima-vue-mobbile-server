@@ -107,14 +107,21 @@ server.on('request', (req, res) => {
             return
         } else if (pathname.indexOf('/api/goods/getinfo') == 0) {
             let _id = pathname.split('/')[4]
-            let images = GoodsController.getInfo(_id)
-            let result = JSON.stringify(images)
+            let goodsinfo = GoodsController.getInfo(_id)
+            let result = JSON.stringify(goodsinfo)
             res.end(result)
             return
         } else if (pathname.indexOf('/api/goods/getdesc') == 0) {
             let _id = pathname.split('/')[4]
-            let images = GoodsController.getGoodsDesc(_id)
-            let result = JSON.stringify(images)
+            let goodsdesc = GoodsController.getGoodsDesc(_id)
+            let result = JSON.stringify(goodsdesc)
+            res.end(result)
+            return
+        } else if (pathname.indexOf('/api/goods/getshopcarlist') == 0) {
+            let _id = pathname.split('/')[4]
+            let _ids = _id.split(',')
+            let goods = GoodsController.getShopcarList(_ids)
+            let result = JSON.stringify(goods)
             res.end(result)
             return
         } else {
