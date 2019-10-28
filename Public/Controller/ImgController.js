@@ -67,11 +67,12 @@ let getImages = function (cateId) {
 }
 
 let getImageInfo = function (imgid) {
-    let i = imageInfos.findIndex(p => p.img_id == imgid)
-    let info = imageInfos[i]
-    info.content = fs.readFileSync(`Public/ImgInfo/${info.img_id}.txt`, 'UTF-8')//@@@这里为什么要从public开始，而不是../
-
-    let result = { status: 0, message: [info] }
+    let result = { status: 1, message: '' }
+    let info = imageInfos.find(p => p.img_id == imgid)
+    if (info != null) {
+        info.content = fs.readFileSync(`Public/ImgInfo/${info.img_id}.txt`, 'UTF-8')//@@@这里为什么要从public开始，而不是../
+        result = { status: 0, message: [info] }
+    }
     return result
 }
 
@@ -80,6 +81,9 @@ let getThumImages = function (imgId) {
 
     let _imgList = dbImages.images
     let _img = _imgList.find(img => img.id == imgId)
+    if (_img == null)
+        return { status: 1, message: '这里数据还没准备好' }
+
     let _thumId = _img.thunid
 
     _imgList.forEach(img => {
@@ -88,6 +92,9 @@ let getThumImages = function (imgId) {
                 src: global.address + global.img_address + img.id + '.jpg',
             })
     })
+    if (_thumImgs == null) {
+        return { status: 1, message: '这里数据还没准别好' }
+    }
     let result = { status: 0, message: _thumImgs }
     return result
 }
