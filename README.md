@@ -190,7 +190,6 @@ node app.js
         market_price:,
         sell_price:
     },
-    ...
     ]
 }
 ```
@@ -212,6 +211,27 @@ node app.js
     ]
 }
 ````
+
+
+
+#### 5. 获取购物车列表
+
+``` javascript
+// GET /api/goods/getshopcarlist/:id1,:id2,...
+{
+    status: ,
+    message: [
+    {
+        cou: ,
+        id:,
+        title:,
+        sell_price:,
+        thumb_path:
+    },
+    ...
+    ]
+}
+```
 
 
 

@@ -2,7 +2,7 @@ const config = require('../../config.js')
 const fs = require('fs')
 const global = require('../../config.js')
 
-const dbImages = require('../../DB/Image/Image.js')
+/* const dbImages = require('../../DB/Image/Image.js') */
 
 let category = [
     { title: '摄影设计', id: 14 },
@@ -77,7 +77,7 @@ let getImageInfo = function (imgid) {
 }
 
 let getThumImages = function (imgId) {
-    let _thumImgs = []
+/*     let _thumImgs = []
 
     let _imgList = dbImages.images
     let _img = _imgList.find(img => img.id == imgId)
@@ -89,14 +89,14 @@ let getThumImages = function (imgId) {
     _imgList.forEach(img => {
         if (img.thunid == _thumId)
             _thumImgs.push({
-                src: global.address + global.img_address + img.id + '.jpg',
+                src: global.address + '/public/Image/Goods/' + img.id + '.jpg',
             })
     })
     if (_thumImgs == null) {
         return { status: 1, message: '这里数据还没准别好' }
     }
     let result = { status: 0, message: _thumImgs }
-    return result
+    return result */
 }
 
 

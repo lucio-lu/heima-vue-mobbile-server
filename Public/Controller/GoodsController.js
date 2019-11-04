@@ -17,7 +17,7 @@ let getGoodsList = function (_pageindex) {
                 add_time: _goods.add_time,
                 zhaiyao: _goods.zhaiyao,
                 click: _goods.click,
-                img_url: global.address + global.img_address + _goods.img_id + '.jpg',
+                img_url: global.address + '/public/Image/Goods/' + _goods.img_id + '.jpg',
                 sell_price: _goods.sell_price,
                 market_price: _goods.market_price,
                 stock_quantity: _goods.stock_quantity,
@@ -30,11 +30,19 @@ let getGoodsList = function (_pageindex) {
 }
 
 let getThumImagesGoods = function (goodsNo) {
+    let _thumImgs = []
+
     goodsNo = goodsNo.toUpperCase()
     let _goodsList = db_goods.goodsList
     let _goods = _goodsList.find(item => item.goods_no == goodsNo)
-    let _thumImgs = imgController.getThumImages(_goods.img_id) // @@@其实这里应该用跳转，跳转到另一个controll，而不是用方法调用
-    return _thumImgs
+    _goods.thun_ids.forEach(element => {
+        _thumImgs.push({
+            src: global.address + '/public/Image/Goods/' + element + '.jpg',
+        })
+    })
+
+    //let _thumImgs = imgController.getThumImages(_goods.img_id) // @@@其实这里应该用跳转，跳转到另一个controll，而不是用方法调用
+    return { status: 0, message: _thumImgs }
 }
 
 let getInfo = function (goodsNo) {
@@ -48,9 +56,10 @@ let getInfo = function (goodsNo) {
         goods_no: _goods.goods_no,
         stock_quantity: _goods.stock_quantity,
         market_price: _goods.market_price,
-        sell_price: _goods.sell_sprice
+        sell_price: _goods.sell_sprice,
+        video_url: global.address + '/public/Video/' + _goods.video_url
     }
-    let result = { status: 0, message: _goodsInfo }
+    let result = { status: 0, message: [_goodsInfo] }
     return result
 }
 

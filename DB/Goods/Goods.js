@@ -3,7 +3,7 @@
 let goodsList = [
     {
         id: 87,
-        title: 'Apple 苹果 iPhone XR 手机 黑色 (A2108) 128GB',
+        title: 'Apple iPhone 11 (A2223) 128GB 绿色 移动联通电信4G手机 双卡双待',
         add_time: '2019-09-19T16:51:03.000Z',
         zhaiyao: 'iphone 上坚固耐用的前玻璃面板，配备精工细造的航空级铝金属边框，还具有抗水防尘特性。现还有六种全新绚丽外观可供选择',
         click: 10,
@@ -12,7 +12,9 @@ let goodsList = [
         sell_sprice: 4198,
         market_price: 5900,
         stock_quantity: 60,
-        goods_no: 'GD100008348550'
+        goods_no: 'GD100008348550',
+        thun_ids: [101, 102, 103, 104, 105, 106],
+        video_url: '1000.mp4'
         // https://item.jd.com/100008348550.html
     },
     {
@@ -26,7 +28,8 @@ let goodsList = [
         sell_sprice: 1399,
         market_price: 1799,
         stock_quantity: 70,
-        goods_no: 'GD100009177388'
+        goods_no: 'GD100009177388',
+        thun_ids: [201, 202, 203, 204, 205, 206, 207, 208, 209]
         // https://item.jd.com/100009177388.html
     },
     {
@@ -40,7 +43,8 @@ let goodsList = [
         sell_sprice: 2999,
         market_price: 3299,
         stock_quantity: 65,
-        goods_no: 'GD100004418727'
+        goods_no: 'GD100004418727',
+        thun_ids: [301, 302, 303, 304, 305, 306, 307, 308, 309]
         // https://item.jd.com/100004418727.html
     },
     {
@@ -54,7 +58,9 @@ let goodsList = [
         sell_sprice: 9999,
         market_price: 9999,
         stock_quantity: 62,
-        goods_no: 'GD100004770257'
+        goods_no: 'GD100004770257',
+        thun_ids: [401, 402, 403, 404],
+        video_url: '1001.mp4'
         // https://item.jd.com/100004770257.html
     },
     {
@@ -68,7 +74,8 @@ let goodsList = [
         sell_sprice: 3199,
         market_price: 3299,
         stock_quantity: 69,
-        goods_no: 'GD100008425798'
+        goods_no: 'GD100008425798',
+        thun_ids: [501, 502, 503, 504, 505]
         // https://item.jd.com/100008425798.html
     },
     {
@@ -82,7 +89,8 @@ let goodsList = [
         sell_sprice: 3199,
         market_price: 3299,
         stock_quantity: 59,
-        goods_no: 'GD100007381674'
+        goods_no: 'GD100007381674',
+        thun_ids: [601, 602, 603, 604, 605, 606, 607]
         // https://item.jd.com/100007381674.html
     },
     {
@@ -96,7 +104,8 @@ let goodsList = [
         sell_sprice: 3199,
         market_price: 3299,
         stock_quantity: 52,
-        goods_no: 'GD36709974231'
+        goods_no: 'GD36709974231',
+        thun_ids: [701, 702, 703, 704, 705]
         // https://item.jd.com/36709974231.html
     },
     {
@@ -110,7 +119,8 @@ let goodsList = [
         sell_sprice: 2998,
         market_price: 3299,
         stock_quantity: 39,
-        goods_no: 'GD100005741508'
+        goods_no: 'GD100005741508',
+        thun_ids: [801, 802, 803, 804, 805, 806, 807, 808, 809]
         // https://item.jd.com/100005741508.html
     },
     {
@@ -124,7 +134,8 @@ let goodsList = [
         sell_sprice: 1898,
         market_price: 2199,
         stock_quantity: 43,
-        goods_no: 'GD100006386682'
+        goods_no: 'GD100006386682',
+        thun_ids: [901, 902, 903, 904, 905, 906, 907, 908]
         // https://item.jd.com/100006386682.html
     }
 ]
