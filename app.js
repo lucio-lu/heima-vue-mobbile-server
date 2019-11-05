@@ -32,11 +32,13 @@ server.on('request', (req, res) => {
             let message = [
                 {
                     url: 'https://nodejs.org/en/',
-                    img: config.address + '/public/image/node-title.jpg'
+                    img: config.address + '/public/image/node-title.jpg',
+                    src: config.address + '/public/image/node-title.jpg',
                 },
                 {
                     url: 'https://vuejs.org/',
-                    img: config.address + '/public/image/vue-title.jpg'
+                    img: config.address + '/public/image/vue-title.jpg',
+                    src: config.address + '/public/Video/1001.mp4',
                 }
             ]
             let result = { status: 0, message: message }
